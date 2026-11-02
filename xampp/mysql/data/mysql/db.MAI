@@ -1,0 +1,1 @@
+`faculty_erp_db`.`attendance`, CONSTRAINT `fk_attendance_faculty` FOREIGN KEY (`faculty_id`) REFERENCES `faculty` (`id`) ON DELETE CASCADE ON UPDATE CASCADE

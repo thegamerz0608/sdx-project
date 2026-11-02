@@ -1,0 +1,53 @@
+{
+  "concurrency": 50,
+  "iterations_per_worker": 10,
+  "total_requests": 2500,
+  "total_duration_sec": 0.087,
+  "rps": 28784.1,
+  "success_rate_pct": 100.0,
+  "overall_latency_ms": {
+    "mean": 1.449,
+    "p50": 0.006,
+    "p95": 6.734,
+    "p99": 20.001,
+    "min": 0.0,
+    "max": 23.483
+  },
+  "per_endpoint": {
+    "/api/employees": {
+      "count": 500,
+      "mean_ms": 0.007,
+      "p50_ms": 0.006,
+      "p95_ms": 0.008,
+      "p99_ms": 0.011
+    },
+    "/api/kiosk/recent": {
+      "count": 500,
+      "mean_ms": 0.001,
+      "p50_ms": 0.001,
+      "p95_ms": 0.001,
+      "p99_ms": 0.001
+    },
+    "/api/punch": {
+      "count": 500,
+      "mean_ms": 7.224,
+      "p50_ms": 6.517,
+      "p95_ms": 20.004,
+      "p99_ms": 21.291
+    },
+    "/api/status": {
+      "count": 500,
+      "mean_ms": 0.011,
+      "p50_ms": 0.01,
+      "p95_ms": 0.018,
+      "p99_ms": 0.024
+    },
+    "/api/verify-credentials": {
+      "count": 500,
+      "mean_ms": 0.001,
+      "p50_ms": 0.001,
+      "p95_ms": 0.001,
+      "p99_ms": 0.009
+    }
+  }
+}

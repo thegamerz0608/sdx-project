@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('3.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.message-container {
+    background-color: rgba(50, 50, 50, 0.8); /* Semi-transparent background */
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    max-width: 90%;
+}
+
+.message-container h1 {
+    margin-bottom: 15px;
+    color: #00ffff; /* Neon aqua title */
+    text-shadow: 0 0 5px #00ffff;
+}
+
+.message-container p {
+    color: #ffffff; /* Bright white text for clarity */
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.message-container p.success {
+    color: #00ff88; /* Green for success */
+    font-weight: bold;
+}
+
+.message-container p.error {
+    color: #ff4d4d; /* Red for errors */
+    font-weight: bold;
+}
+
+.message-container a {
+    color: #61dafb; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.message-container a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}

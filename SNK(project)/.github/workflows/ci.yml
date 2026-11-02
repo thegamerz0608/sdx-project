@@ -1,0 +1,96 @@
+name: Institutional ERP CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, master, improvements ]
+  pull_request:
+    branches: [ main, master, improvements ]
+
+jobs:
+  lint-and-typecheck:
+    name: Code Quality & Static Analysis
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Linting & Type Checking Tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install ruff mypy bandit types-requests
+
+      - name: Run Ruff Linting & Import Verification
+        run: |
+          ruff check .
+
+      - name: Run Ruff Formatting Verification
+        run: |
+          ruff format --check .
+
+      - name: Run Mypy Static Type Checking
+        run: |
+          mypy nlp services utils --config-file pyproject.toml
+
+      - name: Run Bandit AST Security Audit
+        run: |
+          bandit -r nlp services repositories utils models -c pyproject.toml
+
+  test-and-coverage:
+    name: Test Suite & Parity Benchmark
+    needs: lint-and-typecheck
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python-version: ["3.10", "3.11", "3.12"]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
+
+      - name: Install System Dependencies (Linux GUI Headless)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgl1-mesa-glx libegl1-mesa libxkbcommon-x11-0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-randr0 libxcb-render-util0 libxcb-xinerama0
+
+      - name: Install Project & Dev Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Execute Pytest Suite with Code Coverage
+        env:
+          QT_QPA_PLATFORM: offscreen
+          APP_ENV: testing
+          SECRET_KEY: ci-cd-testing-pipeline-master-secret-key-2026
+        run: |
+          pytest --cov=nlp --cov=services --cov=repositories --cov=utils --cov=models --cov-report=xml --cov-report=term -v
+
+      - name: Run Offline Scientific Parity Benchmark (NumPy vs Scikit-Learn)
+        run: |
+          python tools/validate_against_sklearn.py
+
+      - name: Run Model Evaluation Benchmark (Stratified 5-Fold CV)
+        run: |
+          python tools/evaluate_model.py
+
+      - name: Upload Code Coverage Report
+        if: matrix.os == 'ubuntu-latest' && matrix.python-version == '3.11'
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: coverage.xml
+          retention-days: 14

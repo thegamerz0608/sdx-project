@@ -1,0 +1,81 @@
+version: "3.8"
+
+services:
+  # -------------------------------------------------------------
+  # Relational Database: PostgreSQL 16
+  # -------------------------------------------------------------
+  postgres:
+    image: postgres:16-alpine
+    container_name: faculty_erp_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: faculty_erp_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/postgres_schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./database/postgres_seed_data.sql:/docker-entrypoint-initdb.d/02_seed_data.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d faculty_erp_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  # -------------------------------------------------------------
+  # Application Server: FastAPI & Biometric Mobile Bridge
+  # -------------------------------------------------------------
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: faculty_erp_web
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mailpit:
+        condition: service_started
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: production
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USER: postgres
+      DB_PASSWORD: postgres
+      DB_NAME: faculty_erp_db
+      ERP_DOMAIN: localhost
+      WEB_PORT: 8000
+      SECRET_KEY: enterprise-production-master-secret-key-2026-secure
+      COOKIE_SECURE: "false" # Set to "true" when reverse-proxied behind HTTPS / Nginx
+      SENDER_EMAIL: erp-notifications@institution.edu.in
+      SMTP_HOST: mailpit
+      SMTP_PORT: 1025
+    volumes:
+      - ./dataset:/app/dataset:ro
+      - ./models:/app/models
+      - ./backups:/app/backups
+      - ./logs:/app/logs
+
+  # -------------------------------------------------------------
+  # Local SMTP Mail Trapping Server: Mailpit
+  # -------------------------------------------------------------
+  mailpit:
+    image: axllent/mailpit:latest
+    container_name: faculty_erp_mailpit
+    restart: unless-stopped
+    ports:
+      - "1025:1025" # SMTP server port
+      - "8025:8025" # Web UI to view trapped automated emails
+    environment:
+      MP_MAX_MESSAGES: 500
+      MP_DATA_FILE: ""
+      MP_SMTP_AUTH_ACCEPT_ANY: 1
+
+volumes:
+  postgres_data:
+    driver: local

@@ -1,0 +1,82 @@
+"""
+Settings & Environment Configuration Manager
+Loads system configuration safely from environment variables and .env file.
+"""
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Base Directory of the Project
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Load environment variables from .env file if present
+ENV_PATH = BASE_DIR / ".env"
+if ENV_PATH.exists():
+    load_dotenv(dotenv_path=ENV_PATH)
+else:
+    load_dotenv()
+
+
+class Settings:
+    """Application configuration settings object."""
+
+    def __init__(self):
+        self.BASE_DIR: Path = BASE_DIR
+        self.APP_NAME: str = os.getenv("APP_NAME", "Faculty Attendance & Leave ERP")
+        self.COLLEGE_NAME: str = os.getenv("COLLEGE_NAME", os.getenv("INSTITUTION_NAME", "Sahyadri College of Engineering & Management"))
+        self.INSTITUTION_NAME: str = self.COLLEGE_NAME
+        self.APP_ENV: str = os.getenv("APP_ENV", "development")
+        self.LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO").upper()
+
+        # Database Settings (PostgreSQL 16+)
+        self.DB_HOST: str = os.getenv("DB_HOST", "127.0.0.1")
+        self.DB_PORT: int = int(os.getenv("DB_PORT", "5432"))
+        self.DB_USER: str = os.getenv("DB_USER", "postgres")
+        self.DB_PASSWORD: str = os.getenv("DB_PASSWORD", "postgres")
+        self.DB_NAME: str = os.getenv("DB_NAME", "faculty_erp_db")
+
+        # Web Portal & Custom Domain Alias Settings
+        self.ERP_DOMAIN: str = os.getenv("ERP_DOMAIN", "erp.sys")
+        self.WEB_PORT: int = int(os.getenv("WEB_PORT", "8000"))
+
+        # Security & Cryptographic Key Settings
+        self.SECRET_KEY: str = os.getenv("SECRET_KEY", "dev-secret-key-faculty-erp-2026")
+        self.AUDIT_CHAIN_SECRET: str = os.getenv("AUDIT_CHAIN_SECRET", f"{self.SECRET_KEY}_audit_hmac")
+        self.BACKUP_SIGNING_KEY: str = os.getenv("BACKUP_SIGNING_KEY", f"{self.SECRET_KEY}_backup_sign")
+        self.BACKUP_ENCRYPTION_PASSWORD: str = os.getenv("BACKUP_ENCRYPTION_PASSWORD", f"{self.SECRET_KEY}_backup_enc")
+        self.KIOSK_TOKEN_SECRET: str = os.getenv("KIOSK_TOKEN_SECRET", f"{self.SECRET_KEY}_kiosk_totp")
+        self.CSRF_SECRET_KEY: str = os.getenv("CSRF_SECRET_KEY", f"{self.SECRET_KEY}_csrf")
+        self.COOKIE_SECURE: bool = os.getenv("COOKIE_SECURE", "false").lower() in ("true", "1", "yes")
+
+        # SMTP Email Credentials
+        self.SENDER_EMAIL: str = os.getenv("SENDER_EMAIL", "")
+        self.SMTP_PASSWORD: str = os.getenv("SMTP_PASSWORD", "")
+
+        # Logging directory
+        self.LOG_DIR: Path = BASE_DIR / "logs"
+        self.LOG_DIR.mkdir(exist_ok=True)
+
+    def get_db_config(self) -> dict:
+        """Returns MySQL connection configuration dictionary."""
+        return {
+            "host": self.DB_HOST,
+            "port": self.DB_PORT,
+            "user": self.DB_USER,
+            "password": self.DB_PASSWORD,
+            "database": self.DB_NAME,
+            "connect_timeout": 5,
+        }
+
+    def get_portal_url(self, endpoint: str = "/admin-login", use_domain: bool = True) -> str:
+        """Returns the fully-qualified URL for an institutional web portal endpoint."""
+        host = self.ERP_DOMAIN if use_domain else "127.0.0.1"
+        port_suffix = "" if self.WEB_PORT in (80, 443) else f":{self.WEB_PORT}"
+        clean_ep = endpoint if endpoint.startswith("/") else f"/{endpoint}"
+        return f"http://{host}{port_suffix}{clean_ep}"
+
+    def __repr__(self) -> str:
+        return f"<Settings app='{self.APP_NAME}' env='{self.APP_ENV}' db='{self.DB_NAME}@{self.DB_HOST}:{self.DB_PORT}'>"
+
+
+# Instantiate singleton settings object
+settings = Settings()

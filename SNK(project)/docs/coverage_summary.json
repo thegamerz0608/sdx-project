@@ -1,0 +1,566 @@
+{
+  "overall_coverage_pct": 70.3,
+  "total_statements": 6148,
+  "total_covered": 4322,
+  "total_missed": 1826,
+  "packages": {
+    "nlp": {
+      "statements": 919,
+      "covered": 810,
+      "coverage_pct": 88.14
+    },
+    "services": {
+      "statements": 3409,
+      "covered": 2294,
+      "coverage_pct": 67.29
+    },
+    "repositories": {
+      "statements": 1472,
+      "covered": 919,
+      "coverage_pct": 62.43
+    },
+    "utils": {
+      "statements": 348,
+      "covered": 299,
+      "coverage_pct": 85.92
+    },
+    "models": {
+      "statements": 0,
+      "covered": 0,
+      "coverage_pct": 0.0
+    }
+  },
+  "files": [
+    {
+      "rel_path": "nlp/__init__.py",
+      "module": "nlp",
+      "statements": 3,
+      "missed": 0,
+      "covered": 3,
+      "coverage_pct": 100.0,
+      "missing_ranges": ""
+    },
+    {
+      "rel_path": "nlp/calibration.py",
+      "module": "nlp",
+      "statements": 123,
+      "missed": 12,
+      "covered": 111,
+      "coverage_pct": 90.2,
+      "missing_ranges": "17, 26, 30, 58, 89, 97, 126..."
+    },
+    {
+      "rel_path": "nlp/classifiers.py",
+      "module": "nlp",
+      "statements": 297,
+      "missed": 16,
+      "covered": 281,
+      "coverage_pct": 94.6,
+      "missing_ranges": "22, 25, 32, 35-38, 77, 84, ..."
+    },
+    {
+      "rel_path": "nlp/dataset_generator.py",
+      "module": "nlp",
+      "statements": 69,
+      "missed": 4,
+      "covered": 65,
+      "coverage_pct": 94.2,
+      "missing_ranges": "102, 164, 191, 218"
+    },
+    {
+      "rel_path": "nlp/explainability.py",
+      "module": "nlp",
+      "statements": 37,
+      "missed": 5,
+      "covered": 32,
+      "coverage_pct": 86.5,
+      "missing_ranges": "17, 35, 61, 86-87"
+    },
+    {
+      "rel_path": "nlp/feature_extractor.py",
+      "module": "nlp",
+      "statements": 35,
+      "missed": 4,
+      "covered": 31,
+      "coverage_pct": 88.6,
+      "missing_ranges": "28, 47, 55, 61"
+    },
+    {
+      "rel_path": "nlp/model_evaluator.py",
+      "module": "nlp",
+      "statements": 94,
+      "missed": 28,
+      "covered": 66,
+      "coverage_pct": 70.2,
+      "missing_ranges": "28, 56, 108, 133, 136-139, ..."
+    },
+    {
+      "rel_path": "nlp/oov_detector.py",
+      "module": "nlp",
+      "statements": 75,
+      "missed": 14,
+      "covered": 61,
+      "coverage_pct": 81.3,
+      "missing_ranges": "35, 51, 62, 67, 84, 94-97, ..."
+    },
+    {
+      "rel_path": "nlp/preprocessor.py",
+      "module": "nlp",
+      "statements": 55,
+      "missed": 8,
+      "covered": 47,
+      "coverage_pct": 85.5,
+      "missing_ranges": "69, 90, 92, 97, 101, 116, 1..."
+    },
+    {
+      "rel_path": "nlp/vectorizer.py",
+      "module": "nlp",
+      "statements": 131,
+      "missed": 18,
+      "covered": 113,
+      "coverage_pct": 86.3,
+      "missing_ranges": "35, 52, 54, 76, 96, 98, 101..."
+    },
+    {
+      "rel_path": "repositories/__init__.py",
+      "module": "repositories",
+      "statements": 4,
+      "missed": 0,
+      "covered": 4,
+      "coverage_pct": 100.0,
+      "missing_ranges": ""
+    },
+    {
+      "rel_path": "repositories/attendance_repository.py",
+      "module": "repositories",
+      "statements": 80,
+      "missed": 23,
+      "covered": 57,
+      "coverage_pct": 71.2,
+      "missing_ranges": "94, 142-147, 162, 167, 172,..."
+    },
+    {
+      "rel_path": "repositories/audit_repository.py",
+      "module": "repositories",
+      "statements": 103,
+      "missed": 21,
+      "covered": 82,
+      "coverage_pct": 79.6,
+      "missing_ranges": "26, 99, 133-134, 138-140, 1..."
+    },
+    {
+      "rel_path": "repositories/department_repository.py",
+      "module": "repositories",
+      "statements": 77,
+      "missed": 41,
+      "covered": 36,
+      "coverage_pct": 46.8,
+      "missing_ranges": "92, 112-116, 119-121, 123, ..."
+    },
+    {
+      "rel_path": "repositories/faculty_repository.py",
+      "module": "repositories",
+      "statements": 118,
+      "missed": 62,
+      "covered": 56,
+      "coverage_pct": 47.5,
+      "missing_ranges": "387, 421-423, 429-434, 442-..."
+    },
+    {
+      "rel_path": "repositories/grace_repository.py",
+      "module": "repositories",
+      "statements": 125,
+      "missed": 54,
+      "covered": 71,
+      "coverage_pct": 56.8,
+      "missing_ranges": "72, 83, 112-116, 118-120, 1..."
+    },
+    {
+      "rel_path": "repositories/instructor_repository.py",
+      "module": "repositories",
+      "statements": 129,
+      "missed": 51,
+      "covered": 78,
+      "coverage_pct": 60.5,
+      "missing_ranges": "160, 189-190, 193-195, 201-..."
+    },
+    {
+      "rel_path": "repositories/leave_application_repository.py",
+      "module": "repositories",
+      "statements": 187,
+      "missed": 60,
+      "covered": 127,
+      "coverage_pct": 67.9,
+      "missing_ranges": "87, 101-102, 118-122, 141, ..."
+    },
+    {
+      "rel_path": "repositories/leave_repository.py",
+      "module": "repositories",
+      "statements": 111,
+      "missed": 52,
+      "covered": 59,
+      "coverage_pct": 53.2,
+      "missing_ranges": "106, 116-121, 127, 136-141,..."
+    },
+    {
+      "rel_path": "repositories/settings_repository.py",
+      "module": "repositories",
+      "statements": 66,
+      "missed": 22,
+      "covered": 44,
+      "coverage_pct": 66.7,
+      "missing_ranges": "45, 53, 56, 63-64, 68-75, 8..."
+    },
+    {
+      "rel_path": "repositories/stationery_repository.py",
+      "module": "repositories",
+      "statements": 84,
+      "missed": 26,
+      "covered": 58,
+      "coverage_pct": 69.0,
+      "missing_ranges": "87, 95, 131-136, 149, 169-1..."
+    },
+    {
+      "rel_path": "repositories/student_marks_repository.py",
+      "module": "repositories",
+      "statements": 91,
+      "missed": 26,
+      "covered": 65,
+      "coverage_pct": 71.4,
+      "missing_ranges": "124, 127-128, 136, 166-167,..."
+    },
+    {
+      "rel_path": "repositories/student_repository.py",
+      "module": "repositories",
+      "statements": 97,
+      "missed": 38,
+      "covered": 59,
+      "coverage_pct": 60.8,
+      "missing_ranges": "75, 110-116, 141-145, 155-1..."
+    },
+    {
+      "rel_path": "repositories/substitute_repository.py",
+      "module": "repositories",
+      "statements": 141,
+      "missed": 56,
+      "covered": 85,
+      "coverage_pct": 60.3,
+      "missing_ranges": "63, 72-73, 88-92, 111, 146-..."
+    },
+    {
+      "rel_path": "repositories/user_repository.py",
+      "module": "repositories",
+      "statements": 59,
+      "missed": 21,
+      "covered": 38,
+      "coverage_pct": 64.4,
+      "missing_ranges": "378, 410-414, 416-417, 436,..."
+    },
+    {
+      "rel_path": "services/__init__.py",
+      "module": "services",
+      "statements": 3,
+      "missed": 0,
+      "covered": 3,
+      "coverage_pct": 100.0,
+      "missing_ranges": ""
+    },
+    {
+      "rel_path": "services/analytics_service.py",
+      "module": "services",
+      "statements": 68,
+      "missed": 5,
+      "covered": 63,
+      "coverage_pct": 92.6,
+      "missing_ranges": "25, 52, 85, 96, 132"
+    },
+    {
+      "rel_path": "services/attendance_service.py",
+      "module": "services",
+      "statements": 52,
+      "missed": 13,
+      "covered": 39,
+      "coverage_pct": 75.0,
+      "missing_ranges": "26, 31, 37-40, 50, 54, 57, ..."
+    },
+    {
+      "rel_path": "services/audit_service.py",
+      "module": "services",
+      "statements": 42,
+      "missed": 9,
+      "covered": 33,
+      "coverage_pct": 78.6,
+      "missing_ranges": "29, 51, 70, 192, 198, 207-2..."
+    },
+    {
+      "rel_path": "services/auth_service.py",
+      "module": "services",
+      "statements": 111,
+      "missed": 17,
+      "covered": 94,
+      "coverage_pct": 84.7,
+      "missing_ranges": "81, 85, 89, 97, 101, 117, 1..."
+    },
+    {
+      "rel_path": "services/backup_service.py",
+      "module": "services",
+      "statements": 341,
+      "missed": 58,
+      "covered": 283,
+      "coverage_pct": 83.0,
+      "missing_ranges": "47-53, 73, 82, 90, 93, 98, ..."
+    },
+    {
+      "rel_path": "services/department_service.py",
+      "module": "services",
+      "statements": 52,
+      "missed": 19,
+      "covered": 33,
+      "coverage_pct": 63.5,
+      "missing_ranges": "23, 27, 31, 36, 42, 45, 67-..."
+    },
+    {
+      "rel_path": "services/email_service.py",
+      "module": "services",
+      "statements": 111,
+      "missed": 44,
+      "covered": 67,
+      "coverage_pct": 60.4,
+      "missing_ranges": "51, 55-58, 62-63, 65, 75, 1..."
+    },
+    {
+      "rel_path": "services/faculty_service.py",
+      "module": "services",
+      "statements": 80,
+      "missed": 31,
+      "covered": 49,
+      "coverage_pct": 61.3,
+      "missing_ranges": "29, 42, 47, 50, 54, 59, 64,..."
+    },
+    {
+      "rel_path": "services/grace_service.py",
+      "module": "services",
+      "statements": 72,
+      "missed": 21,
+      "covered": 51,
+      "coverage_pct": 70.8,
+      "missing_ranges": "28, 33, 67, 70, 87, 92, 95,..."
+    },
+    {
+      "rel_path": "services/instructor_service.py",
+      "module": "services",
+      "statements": 85,
+      "missed": 22,
+      "covered": 63,
+      "coverage_pct": 74.1,
+      "missing_ranges": "29, 38, 40, 45, 48, 51, 56,..."
+    },
+    {
+      "rel_path": "services/leave_service.py",
+      "module": "services",
+      "statements": 114,
+      "missed": 33,
+      "covered": 81,
+      "coverage_pct": 71.1,
+      "missing_ranges": "30, 35, 66, 80, 90, 95, 101..."
+    },
+    {
+      "rel_path": "services/leave_workflow_service.py",
+      "module": "services",
+      "statements": 257,
+      "missed": 50,
+      "covered": 207,
+      "coverage_pct": 80.5,
+      "missing_ranges": "47, 51, 60, 73-74, 78, 85, ..."
+    },
+    {
+      "rel_path": "services/mobile_punch_service.py",
+      "module": "services",
+      "statements": 396,
+      "missed": 189,
+      "covered": 207,
+      "coverage_pct": 52.3,
+      "missing_ranges": "17, 22, 50, 56-57, 59, 75, ..."
+    },
+    {
+      "rel_path": "services/model_training_service.py",
+      "module": "services",
+      "statements": 123,
+      "missed": 10,
+      "covered": 113,
+      "coverage_pct": 91.9,
+      "missing_ranges": "42, 126, 139, 141-142, 145,..."
+    },
+    {
+      "rel_path": "services/nlp_service.py",
+      "module": "services",
+      "statements": 46,
+      "missed": 9,
+      "covered": 37,
+      "coverage_pct": 80.4,
+      "missing_ranges": "24, 26-27, 34-37, 40, 44"
+    },
+    {
+      "rel_path": "services/public_tunnel_manager.py",
+      "module": "services",
+      "statements": 245,
+      "missed": 201,
+      "covered": 44,
+      "coverage_pct": 18.0,
+      "missing_ranges": "25, 30, 47, 50-52, 59-60, 6..."
+    },
+    {
+      "rel_path": "services/recommendation_engine.py",
+      "module": "services",
+      "statements": 117,
+      "missed": 13,
+      "covered": 104,
+      "coverage_pct": 88.9,
+      "missing_ranges": "28, 35, 38, 70, 167-169, 17..."
+    },
+    {
+      "rel_path": "services/report_service.py",
+      "module": "services",
+      "statements": 50,
+      "missed": 20,
+      "covered": 30,
+      "coverage_pct": 60.0,
+      "missing_ranges": "28, 39-42, 44-47, 50, 53, 6..."
+    },
+    {
+      "rel_path": "services/stationery_service.py",
+      "module": "services",
+      "statements": 54,
+      "missed": 13,
+      "covered": 41,
+      "coverage_pct": 75.9,
+      "missing_ranges": "21, 32, 37, 40, 43, 63, 65,..."
+    },
+    {
+      "rel_path": "services/student_marks_service.py",
+      "module": "services",
+      "statements": 155,
+      "missed": 15,
+      "covered": 140,
+      "coverage_pct": 90.3,
+      "missing_ranges": "77, 87, 110-111, 113-114, 1..."
+    },
+    {
+      "rel_path": "services/student_service.py",
+      "module": "services",
+      "statements": 59,
+      "missed": 16,
+      "covered": 43,
+      "coverage_pct": 72.9,
+      "missing_ranges": "30, 36, 45-48, 50-51, 53, 6..."
+    },
+    {
+      "rel_path": "services/substitute_cpsat_solver.py",
+      "module": "services",
+      "statements": 161,
+      "missed": 76,
+      "covered": 85,
+      "coverage_pct": 52.8,
+      "missing_ranges": "24, 31, 36, 63, 97, 106-109..."
+    },
+    {
+      "rel_path": "services/substitute_service.py",
+      "module": "services",
+      "statements": 93,
+      "missed": 14,
+      "covered": 79,
+      "coverage_pct": 84.9,
+      "missing_ranges": "34, 92, 138, 143, 146, 149,..."
+    },
+    {
+      "rel_path": "services/tfidf_service.py",
+      "module": "services",
+      "statements": 71,
+      "missed": 6,
+      "covered": 65,
+      "coverage_pct": 91.5,
+      "missing_ranges": "26, 46, 62, 79, 95, 122"
+    },
+    {
+      "rel_path": "services/time_service.py",
+      "module": "services",
+      "statements": 76,
+      "missed": 29,
+      "covered": 47,
+      "coverage_pct": 61.8,
+      "missing_ranges": "30, 36, 44-46, 48-51, 53, 5..."
+    },
+    {
+      "rel_path": "services/web_portal_service.py",
+      "module": "services",
+      "statements": 375,
+      "missed": 182,
+      "covered": 193,
+      "coverage_pct": 51.5,
+      "missing_ranges": "25, 256, 261-262, 271, 334,..."
+    },
+    {
+      "rel_path": "utils/__init__.py",
+      "module": "utils",
+      "statements": 5,
+      "missed": 0,
+      "covered": 5,
+      "coverage_pct": 100.0,
+      "missing_ranges": ""
+    },
+    {
+      "rel_path": "utils/exceptions.py",
+      "module": "utils",
+      "statements": 26,
+      "missed": 0,
+      "covered": 26,
+      "coverage_pct": 100.0,
+      "missing_ranges": ""
+    },
+    {
+      "rel_path": "utils/jwt_utils.py",
+      "module": "utils",
+      "statements": 131,
+      "missed": 19,
+      "covered": 112,
+      "coverage_pct": 85.5,
+      "missing_ranges": "33, 40, 42, 47, 52, 57, 69,..."
+    },
+    {
+      "rel_path": "utils/kiosk_token.py",
+      "module": "utils",
+      "statements": 57,
+      "missed": 10,
+      "covered": 47,
+      "coverage_pct": 82.5,
+      "missing_ranges": "25, 29, 33, 61, 67, 71, 77,..."
+    },
+    {
+      "rel_path": "utils/logger.py",
+      "module": "utils",
+      "statements": 28,
+      "missed": 3,
+      "covered": 25,
+      "coverage_pct": 89.3,
+      "missing_ranges": "13, 22, 56"
+    },
+    {
+      "rel_path": "utils/rate_limiter.py",
+      "module": "utils",
+      "statements": 34,
+      "missed": 5,
+      "covered": 29,
+      "coverage_pct": 85.3,
+      "missing_ranges": "25, 52-53, 56-57"
+    },
+    {
+      "rel_path": "utils/security.py",
+      "module": "utils",
+      "statements": 67,
+      "missed": 12,
+      "covered": 55,
+      "coverage_pct": 82.1,
+      "missing_ranges": "20, 25, 45, 77, 94, 102, 10..."
+    }
+  ]
+}

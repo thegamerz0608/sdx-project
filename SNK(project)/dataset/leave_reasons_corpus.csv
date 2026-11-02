@@ -1,0 +1,501 @@
+id,text,label,leave_type_name
+1,I need to attend a family function at my hometown.,CL,Casual Leave
+2,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",CL,Casual Leave
+3,"Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",CL,Casual Leave
+4,Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.,CL,Casual Leave
+5,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+6,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",CL,Casual Leave
+7,Urgent plumbing and electrical repair work at my residence. Thanking you in advance.,CL,Casual Leave
+8,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",CL,Casual Leave
+9,"Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",CL,Casual Leave
+10,Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.,CL,Casual Leave
+11,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",CL,Casual Leave
+12,"Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",CL,Casual Leave
+13,Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.,CL,Casual Leave
+14,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",CL,Casual Leave
+15,"Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+16,I need to attend a family function at my hometown. Kindly consider my request and grant permission.,CL,Casual Leave
+17,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",CL,Casual Leave
+18,"Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",CL,Casual Leave
+19,Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.,CL,Casual Leave
+20,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",CL,Casual Leave
+21,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",CL,Casual Leave
+22,Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.,CL,Casual Leave
+23,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",CL,Casual Leave
+24,"Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",CL,Casual Leave
+25,Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.,CL,Casual Leave
+26,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",CL,Casual Leave
+27,"Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",CL,Casual Leave
+28,Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.,CL,Casual Leave
+29,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",CL,Casual Leave
+30,"Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",CL,Casual Leave
+31,I need to attend a family function at my hometown.,CL,Casual Leave
+32,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",CL,Casual Leave
+33,"Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",CL,Casual Leave
+34,Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.,CL,Casual Leave
+35,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+36,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",CL,Casual Leave
+37,Urgent plumbing and electrical repair work at my residence. Thanking you in advance.,CL,Casual Leave
+38,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",CL,Casual Leave
+39,"Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",CL,Casual Leave
+40,Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.,CL,Casual Leave
+41,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",CL,Casual Leave
+42,"Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",CL,Casual Leave
+43,Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.,CL,Casual Leave
+44,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",CL,Casual Leave
+45,"Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+46,I need to attend a family function at my hometown. Kindly consider my request and grant permission.,CL,Casual Leave
+47,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",CL,Casual Leave
+48,"Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",CL,Casual Leave
+49,Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.,CL,Casual Leave
+50,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",CL,Casual Leave
+51,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",CL,Casual Leave
+52,Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.,CL,Casual Leave
+53,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",CL,Casual Leave
+54,"Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",CL,Casual Leave
+55,Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.,CL,Casual Leave
+56,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",CL,Casual Leave
+57,"Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",CL,Casual Leave
+58,Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.,CL,Casual Leave
+59,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",CL,Casual Leave
+60,"Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",CL,Casual Leave
+61,I need to attend a family function at my hometown.,CL,Casual Leave
+62,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",CL,Casual Leave
+63,"Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",CL,Casual Leave
+64,Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.,CL,Casual Leave
+65,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+66,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",CL,Casual Leave
+67,Urgent plumbing and electrical repair work at my residence. Thanking you in advance.,CL,Casual Leave
+68,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",CL,Casual Leave
+69,"Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",CL,Casual Leave
+70,Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.,CL,Casual Leave
+71,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",CL,Casual Leave
+72,"Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",CL,Casual Leave
+73,Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.,CL,Casual Leave
+74,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",CL,Casual Leave
+75,"Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+76,I need to attend a family function at my hometown. Kindly consider my request and grant permission.,CL,Casual Leave
+77,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",CL,Casual Leave
+78,"Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",CL,Casual Leave
+79,Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.,CL,Casual Leave
+80,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",CL,Casual Leave
+81,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",CL,Casual Leave
+82,Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.,CL,Casual Leave
+83,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",CL,Casual Leave
+84,"Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",CL,Casual Leave
+85,Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.,CL,Casual Leave
+86,"Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",CL,Casual Leave
+87,"Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",CL,Casual Leave
+88,Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.,CL,Casual Leave
+89,"Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",CL,Casual Leave
+90,"Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",CL,Casual Leave
+91,I need to attend a family function at my hometown.,CL,Casual Leave
+92,"Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",CL,Casual Leave
+93,"Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",CL,Casual Leave
+94,Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.,CL,Casual Leave
+95,"Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",CL,Casual Leave
+96,"Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",CL,Casual Leave
+97,Urgent plumbing and electrical repair work at my residence. Thanking you in advance.,CL,Casual Leave
+98,"Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",CL,Casual Leave
+99,"Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",CL,Casual Leave
+100,Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.,CL,Casual Leave
+101,I am suffering from severe viral fever and doctor advised 3 days bed rest.,ML,Medical Leave
+102,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",ML,Medical Leave
+103,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",ML,Medical Leave
+104,Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.,ML,Medical Leave
+105,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+106,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",ML,Medical Leave
+107,"High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",ML,Medical Leave
+108,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",ML,Medical Leave
+109,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",ML,Medical Leave
+110,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.,ML,Medical Leave
+111,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",ML,Medical Leave
+112,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",ML,Medical Leave
+113,Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.,ML,Medical Leave
+114,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",ML,Medical Leave
+115,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+116,I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.,ML,Medical Leave
+117,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",ML,Medical Leave
+118,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",ML,Medical Leave
+119,Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.,ML,Medical Leave
+120,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",ML,Medical Leave
+121,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",ML,Medical Leave
+122,"High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",ML,Medical Leave
+123,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",ML,Medical Leave
+124,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",ML,Medical Leave
+125,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.,ML,Medical Leave
+126,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",ML,Medical Leave
+127,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",ML,Medical Leave
+128,Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.,ML,Medical Leave
+129,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",ML,Medical Leave
+130,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",ML,Medical Leave
+131,I am suffering from severe viral fever and doctor advised 3 days bed rest.,ML,Medical Leave
+132,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",ML,Medical Leave
+133,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",ML,Medical Leave
+134,Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.,ML,Medical Leave
+135,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+136,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",ML,Medical Leave
+137,"High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",ML,Medical Leave
+138,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",ML,Medical Leave
+139,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",ML,Medical Leave
+140,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.,ML,Medical Leave
+141,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",ML,Medical Leave
+142,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",ML,Medical Leave
+143,Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.,ML,Medical Leave
+144,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",ML,Medical Leave
+145,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+146,I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.,ML,Medical Leave
+147,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",ML,Medical Leave
+148,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",ML,Medical Leave
+149,Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.,ML,Medical Leave
+150,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",ML,Medical Leave
+151,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",ML,Medical Leave
+152,"High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",ML,Medical Leave
+153,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",ML,Medical Leave
+154,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",ML,Medical Leave
+155,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.,ML,Medical Leave
+156,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",ML,Medical Leave
+157,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",ML,Medical Leave
+158,Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.,ML,Medical Leave
+159,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",ML,Medical Leave
+160,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",ML,Medical Leave
+161,I am suffering from severe viral fever and doctor advised 3 days bed rest.,ML,Medical Leave
+162,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",ML,Medical Leave
+163,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",ML,Medical Leave
+164,Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.,ML,Medical Leave
+165,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+166,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",ML,Medical Leave
+167,"High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",ML,Medical Leave
+168,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",ML,Medical Leave
+169,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",ML,Medical Leave
+170,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.,ML,Medical Leave
+171,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",ML,Medical Leave
+172,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",ML,Medical Leave
+173,Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.,ML,Medical Leave
+174,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",ML,Medical Leave
+175,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+176,I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.,ML,Medical Leave
+177,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",ML,Medical Leave
+178,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",ML,Medical Leave
+179,Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.,ML,Medical Leave
+180,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",ML,Medical Leave
+181,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",ML,Medical Leave
+182,"High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",ML,Medical Leave
+183,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",ML,Medical Leave
+184,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",ML,Medical Leave
+185,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.,ML,Medical Leave
+186,"Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",ML,Medical Leave
+187,"Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",ML,Medical Leave
+188,Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.,ML,Medical Leave
+189,"Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",ML,Medical Leave
+190,"Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",ML,Medical Leave
+191,I am suffering from severe viral fever and doctor advised 3 days bed rest.,ML,Medical Leave
+192,"Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",ML,Medical Leave
+193,"Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",ML,Medical Leave
+194,Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.,ML,Medical Leave
+195,"Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",ML,Medical Leave
+196,"Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",ML,Medical Leave
+197,"High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",ML,Medical Leave
+198,"Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",ML,Medical Leave
+199,"Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",ML,Medical Leave
+200,Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.,ML,Medical Leave
+201,Planning extended annual family vacation trip to North India.,EL,Earned Leave
+202,"Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",EL,Earned Leave
+203,"Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",EL,Earned Leave
+204,Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.,EL,Earned Leave
+205,"Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+206,"Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",EL,Earned Leave
+207,Personal long leave for house construction supervision in hometown. Thanking you in advance.,EL,Earned Leave
+208,"Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",EL,Earned Leave
+209,"Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",EL,Earned Leave
+210,Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.,EL,Earned Leave
+211,"Respected Sir/Madam, Planning extended annual family vacation trip to North India.",EL,Earned Leave
+212,"Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",EL,Earned Leave
+213,Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.,EL,Earned Leave
+214,"Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",EL,Earned Leave
+215,"Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+216,Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.,EL,Earned Leave
+217,"Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",EL,Earned Leave
+218,"Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",EL,Earned Leave
+219,Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.,EL,Earned Leave
+220,"Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",EL,Earned Leave
+221,"Due to urgent reasons, planning extended annual family vacation trip to north india.",EL,Earned Leave
+222,Availing earned leave for long planned international family tour. Please grant me leave for the same.,EL,Earned Leave
+223,"Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",EL,Earned Leave
+224,"Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",EL,Earned Leave
+225,Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.,EL,Earned Leave
+226,"Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",EL,Earned Leave
+227,"Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",EL,Earned Leave
+228,Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.,EL,Earned Leave
+229,"Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",EL,Earned Leave
+230,"Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",EL,Earned Leave
+231,Planning extended annual family vacation trip to North India.,EL,Earned Leave
+232,"Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",EL,Earned Leave
+233,"Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",EL,Earned Leave
+234,Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.,EL,Earned Leave
+235,"Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+236,"Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",EL,Earned Leave
+237,Personal long leave for house construction supervision in hometown. Thanking you in advance.,EL,Earned Leave
+238,"Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",EL,Earned Leave
+239,"Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",EL,Earned Leave
+240,Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.,EL,Earned Leave
+241,"Respected Sir/Madam, Planning extended annual family vacation trip to North India.",EL,Earned Leave
+242,"Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",EL,Earned Leave
+243,Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.,EL,Earned Leave
+244,"Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",EL,Earned Leave
+245,"Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+246,Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.,EL,Earned Leave
+247,"Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",EL,Earned Leave
+248,"Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",EL,Earned Leave
+249,Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.,EL,Earned Leave
+250,"Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",EL,Earned Leave
+251,"Due to urgent reasons, planning extended annual family vacation trip to north india.",EL,Earned Leave
+252,Availing earned leave for long planned international family tour. Please grant me leave for the same.,EL,Earned Leave
+253,"Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",EL,Earned Leave
+254,"Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",EL,Earned Leave
+255,Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.,EL,Earned Leave
+256,"Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",EL,Earned Leave
+257,"Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",EL,Earned Leave
+258,Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.,EL,Earned Leave
+259,"Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",EL,Earned Leave
+260,"Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",EL,Earned Leave
+261,Planning extended annual family vacation trip to North India.,EL,Earned Leave
+262,"Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",EL,Earned Leave
+263,"Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",EL,Earned Leave
+264,Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.,EL,Earned Leave
+265,"Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+266,"Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",EL,Earned Leave
+267,Personal long leave for house construction supervision in hometown. Thanking you in advance.,EL,Earned Leave
+268,"Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",EL,Earned Leave
+269,"Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",EL,Earned Leave
+270,Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.,EL,Earned Leave
+271,"Respected Sir/Madam, Planning extended annual family vacation trip to North India.",EL,Earned Leave
+272,"Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",EL,Earned Leave
+273,Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.,EL,Earned Leave
+274,"Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",EL,Earned Leave
+275,"Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+276,Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.,EL,Earned Leave
+277,"Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",EL,Earned Leave
+278,"Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",EL,Earned Leave
+279,Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.,EL,Earned Leave
+280,"Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",EL,Earned Leave
+281,"Due to urgent reasons, planning extended annual family vacation trip to north india.",EL,Earned Leave
+282,Availing earned leave for long planned international family tour. Please grant me leave for the same.,EL,Earned Leave
+283,"Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",EL,Earned Leave
+284,"Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",EL,Earned Leave
+285,Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.,EL,Earned Leave
+286,"Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",EL,Earned Leave
+287,"Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",EL,Earned Leave
+288,Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.,EL,Earned Leave
+289,"Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",EL,Earned Leave
+290,"Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",EL,Earned Leave
+291,Planning extended annual family vacation trip to North India.,EL,Earned Leave
+292,"Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",EL,Earned Leave
+293,"Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",EL,Earned Leave
+294,Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.,EL,Earned Leave
+295,"Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",EL,Earned Leave
+296,"Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",EL,Earned Leave
+297,Personal long leave for house construction supervision in hometown. Thanking you in advance.,EL,Earned Leave
+298,"Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",EL,Earned Leave
+299,"Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",EL,Earned Leave
+300,Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.,EL,Earned Leave
+301,Attending IEEE International Conference on Artificial Intelligence to present paper.,SCL,Special Casual Leave
+302,"Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",SCL,Special Casual Leave
+303,"Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",SCL,Special Casual Leave
+304,Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.,SCL,Special Casual Leave
+305,"Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+306,"Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",SCL,Special Casual Leave
+307,Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.,SCL,Special Casual Leave
+308,"Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",SCL,Special Casual Leave
+309,"Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+310,Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.,SCL,Special Casual Leave
+311,"Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",SCL,Special Casual Leave
+312,"Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",SCL,Special Casual Leave
+313,Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.,SCL,Special Casual Leave
+314,"Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+315,"Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+316,Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.,SCL,Special Casual Leave
+317,"Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",SCL,Special Casual Leave
+318,"Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",SCL,Special Casual Leave
+319,Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.,SCL,Special Casual Leave
+320,"Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",SCL,Special Casual Leave
+321,"Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",SCL,Special Casual Leave
+322,Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.,SCL,Special Casual Leave
+323,"Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",SCL,Special Casual Leave
+324,"Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+325,Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.,SCL,Special Casual Leave
+326,"Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",SCL,Special Casual Leave
+327,"Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",SCL,Special Casual Leave
+328,Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.,SCL,Special Casual Leave
+329,"Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+330,"Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",SCL,Special Casual Leave
+331,Attending IEEE International Conference on Artificial Intelligence to present paper.,SCL,Special Casual Leave
+332,"Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",SCL,Special Casual Leave
+333,"Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",SCL,Special Casual Leave
+334,Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.,SCL,Special Casual Leave
+335,"Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+336,"Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",SCL,Special Casual Leave
+337,Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.,SCL,Special Casual Leave
+338,"Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",SCL,Special Casual Leave
+339,"Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+340,Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.,SCL,Special Casual Leave
+341,"Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",SCL,Special Casual Leave
+342,"Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",SCL,Special Casual Leave
+343,Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.,SCL,Special Casual Leave
+344,"Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+345,"Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+346,Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.,SCL,Special Casual Leave
+347,"Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",SCL,Special Casual Leave
+348,"Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",SCL,Special Casual Leave
+349,Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.,SCL,Special Casual Leave
+350,"Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",SCL,Special Casual Leave
+351,"Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",SCL,Special Casual Leave
+352,Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.,SCL,Special Casual Leave
+353,"Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",SCL,Special Casual Leave
+354,"Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+355,Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.,SCL,Special Casual Leave
+356,"Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",SCL,Special Casual Leave
+357,"Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",SCL,Special Casual Leave
+358,Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.,SCL,Special Casual Leave
+359,"Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+360,"Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",SCL,Special Casual Leave
+361,Attending IEEE International Conference on Artificial Intelligence to present paper.,SCL,Special Casual Leave
+362,"Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",SCL,Special Casual Leave
+363,"Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",SCL,Special Casual Leave
+364,Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.,SCL,Special Casual Leave
+365,"Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+366,"Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",SCL,Special Casual Leave
+367,Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.,SCL,Special Casual Leave
+368,"Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",SCL,Special Casual Leave
+369,"Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+370,Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.,SCL,Special Casual Leave
+371,"Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",SCL,Special Casual Leave
+372,"Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",SCL,Special Casual Leave
+373,Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.,SCL,Special Casual Leave
+374,"Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+375,"Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+376,Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.,SCL,Special Casual Leave
+377,"Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",SCL,Special Casual Leave
+378,"Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",SCL,Special Casual Leave
+379,Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.,SCL,Special Casual Leave
+380,"Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",SCL,Special Casual Leave
+381,"Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",SCL,Special Casual Leave
+382,Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.,SCL,Special Casual Leave
+383,"Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",SCL,Special Casual Leave
+384,"Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",SCL,Special Casual Leave
+385,Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.,SCL,Special Casual Leave
+386,"Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",SCL,Special Casual Leave
+387,"Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",SCL,Special Casual Leave
+388,Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.,SCL,Special Casual Leave
+389,"Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+390,"Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",SCL,Special Casual Leave
+391,Attending IEEE International Conference on Artificial Intelligence to present paper.,SCL,Special Casual Leave
+392,"Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",SCL,Special Casual Leave
+393,"Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",SCL,Special Casual Leave
+394,Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.,SCL,Special Casual Leave
+395,"Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",SCL,Special Casual Leave
+396,"Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",SCL,Special Casual Leave
+397,Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.,SCL,Special Casual Leave
+398,"Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",SCL,Special Casual Leave
+399,"Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",SCL,Special Casual Leave
+400,Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.,SCL,Special Casual Leave
+401,Deputed on official university duty for inspecting affiliated college laboratories.,OD,On Duty Leave
+402,"Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",OD,On Duty Leave
+403,"Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",OD,On Duty Leave
+404,Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.,OD,On Duty Leave
+405,"Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+406,"Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",OD,On Duty Leave
+407,On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.,OD,On Duty Leave
+408,"Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",OD,On Duty Leave
+409,"Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",OD,On Duty Leave
+410,Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.,OD,On Duty Leave
+411,"Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+412,"Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",OD,On Duty Leave
+413,On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.,OD,On Duty Leave
+414,"Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+415,"Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+416,Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.,OD,On Duty Leave
+417,"Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",OD,On Duty Leave
+418,"Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",OD,On Duty Leave
+419,On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.,OD,On Duty Leave
+420,"Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",OD,On Duty Leave
+421,"Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+422,Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.,OD,On Duty Leave
+423,"Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",OD,On Duty Leave
+424,"Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+425,Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.,OD,On Duty Leave
+426,"Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",OD,On Duty Leave
+427,"Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",OD,On Duty Leave
+428,Official university deputation for conducting external lab examination. I will resume duties immediately upon return.,OD,On Duty Leave
+429,"Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",OD,On Duty Leave
+430,"Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",OD,On Duty Leave
+431,Deputed on official university duty for inspecting affiliated college laboratories.,OD,On Duty Leave
+432,"Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",OD,On Duty Leave
+433,"Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",OD,On Duty Leave
+434,Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.,OD,On Duty Leave
+435,"Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+436,"Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",OD,On Duty Leave
+437,On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.,OD,On Duty Leave
+438,"Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",OD,On Duty Leave
+439,"Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",OD,On Duty Leave
+440,Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.,OD,On Duty Leave
+441,"Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+442,"Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",OD,On Duty Leave
+443,On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.,OD,On Duty Leave
+444,"Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+445,"Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+446,Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.,OD,On Duty Leave
+447,"Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",OD,On Duty Leave
+448,"Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",OD,On Duty Leave
+449,On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.,OD,On Duty Leave
+450,"Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",OD,On Duty Leave
+451,"Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+452,Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.,OD,On Duty Leave
+453,"Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",OD,On Duty Leave
+454,"Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+455,Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.,OD,On Duty Leave
+456,"Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",OD,On Duty Leave
+457,"Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",OD,On Duty Leave
+458,Official university deputation for conducting external lab examination. I will resume duties immediately upon return.,OD,On Duty Leave
+459,"Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",OD,On Duty Leave
+460,"Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",OD,On Duty Leave
+461,Deputed on official university duty for inspecting affiliated college laboratories.,OD,On Duty Leave
+462,"Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",OD,On Duty Leave
+463,"Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",OD,On Duty Leave
+464,Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.,OD,On Duty Leave
+465,"Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+466,"Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",OD,On Duty Leave
+467,On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.,OD,On Duty Leave
+468,"Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",OD,On Duty Leave
+469,"Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",OD,On Duty Leave
+470,Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.,OD,On Duty Leave
+471,"Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+472,"Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",OD,On Duty Leave
+473,On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.,OD,On Duty Leave
+474,"Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+475,"Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+476,Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.,OD,On Duty Leave
+477,"Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",OD,On Duty Leave
+478,"Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",OD,On Duty Leave
+479,On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.,OD,On Duty Leave
+480,"Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",OD,On Duty Leave
+481,"Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",OD,On Duty Leave
+482,Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.,OD,On Duty Leave
+483,"Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",OD,On Duty Leave
+484,"Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",OD,On Duty Leave
+485,Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.,OD,On Duty Leave
+486,"Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",OD,On Duty Leave
+487,"Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",OD,On Duty Leave
+488,Official university deputation for conducting external lab examination. I will resume duties immediately upon return.,OD,On Duty Leave
+489,"Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",OD,On Duty Leave
+490,"Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",OD,On Duty Leave
+491,Deputed on official university duty for inspecting affiliated college laboratories.,OD,On Duty Leave
+492,"Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",OD,On Duty Leave
+493,"Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",OD,On Duty Leave
+494,Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.,OD,On Duty Leave
+495,"Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",OD,On Duty Leave
+496,"Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",OD,On Duty Leave
+497,On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.,OD,On Duty Leave
+498,"Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",OD,On Duty Leave
+499,"Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",OD,On Duty Leave
+500,Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.,OD,On Duty Leave

@@ -1,0 +1,488 @@
+26-08-08 20:34:31 ** --- MESSAGE BEGIN ---
+26-08-08 20:34:31 ** To: thegamerz0608@gmail.com
+26-08-08 20:34:31 ** Subject: Pro Controller Gaming - Password Reset Request
+26-08-08 20:34:31 ** MIME-Version: 1.0
+26-08-08 20:34:31 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:34:31 ** From: Pro Controller Gaming <noreply@procontroller.com>
+26-08-08 20:34:31 ** Reply-To: support@procontroller.com
+26-08-08 20:34:31 ** 
+26-08-08 20:34:31 ** 
+26-08-08 20:34:31 **                     <!DOCTYPE html>
+26-08-08 20:34:31 **                     <html>
+26-08-08 20:34:31 **                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:34:31 **                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'>
+26-08-08 20:34:31 **                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2>
+26-08-08 20:34:31 **                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p>
+26-08-08 20:34:31 **                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p>
+26-08-08 20:34:31 **                             <p style='margin: 25px 0;'>
+26-08-08 20:34:31 **                                 <a href='http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a>
+26-08-08 20:34:31 **                             </p>
+26-08-08 20:34:31 **                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d</a></p>
+26-08-08 20:34:31 **                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p>
+26-08-08 20:34:31 **                         </div>
+26-08-08 20:34:31 **                     </body>
+26-08-08 20:34:31 **                     </html>
+26-08-08 20:34:31 ** --- MESSAGE END ---
+26-08-08 20:34:32 ** Connecting to smtp.gmail.com:587
+26-08-08 20:34:32 ** Connected.
+26-08-08 20:34:32 << 220 smtp.gmail.com ESMTP 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:32 >> EHLO localhost<EOL>
+26-08-08 20:34:33 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:34:33 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:34:33 >> STARTTLS<EOL>
+26-08-08 20:34:33 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:34:33 >> EHLO localhost<EOL>
+26-08-08 20:34:33 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:34:33 >> AUTH LOGIN<EOL>
+26-08-08 20:34:34 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:34:34 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:34:34 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:34:34 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:34:34 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:34:34 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:34:34 << 250 2.1.0 OK 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:34 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:34:35 << 250 2.1.5 OK 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:35 >> DATA<EOL>
+26-08-08 20:34:35 << 354 Go ahead 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:35 >> Date: Sat, 8 Aug 2026 20:34:35 +0530<EOL>
+26-08-08 20:34:35 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:34:35 >> Subject: Pro Controller Gaming - Password Reset Request<EOL>
+26-08-08 20:34:35 >> MIME-Version: 1.0<EOL>
+26-08-08 20:34:35 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:34:35 >> From: Pro Controller Gaming <noreply@procontroller.com><EOL>
+26-08-08 20:34:35 >> Reply-To: support@procontroller.com<EOL>
+26-08-08 20:34:35 >> <EOL>
+26-08-08 20:34:35 >> <EOL>
+26-08-08 20:34:35 >>                     <!DOCTYPE html><EOL>
+26-08-08 20:34:35 >>                     <html><EOL>
+26-08-08 20:34:35 >>                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:34:35 >>                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'><EOL>
+26-08-08 20:34:35 >>                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2><EOL>
+26-08-08 20:34:35 >>                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p><EOL>
+26-08-08 20:34:35 >>                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p><EOL>
+26-08-08 20:34:35 >>                             <p style='margin: 25px 0;'><EOL>
+26-08-08 20:34:35 >>                                 <a href='http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a><EOL>
+26-08-08 20:34:35 >>                             </p><EOL>
+26-08-08 20:34:35 >>                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=fb6ee32aa26405422598d4877e22b15698ea29fa0ef26301c16dcd8995e8b29d</a></p><EOL>
+26-08-08 20:34:35 >>                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p><EOL>
+26-08-08 20:34:35 >>                         </div><EOL>
+26-08-08 20:34:35 >>                     </body><EOL>
+26-08-08 20:34:35 >>                     </html><EOL>
+26-08-08 20:34:35 >> .<EOL>
+26-08-08 20:34:36 << 250 2.0.0 OK  1786201476 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:36 >> QUIT<EOL>
+26-08-08 20:34:36 << 221 2.0.0 closing connection 5a478bee46e88-315bec68468sm22393600eec.31 - gsmtp<EOL>
+26-08-08 20:34:36 ** Disconnected.
+26-08-08 20:34:36 ** Disconnected.
+26-08-08 20:34:36 ** Disconnected.
+26-08-08 20:35:18 ** --- MESSAGE BEGIN ---
+26-08-08 20:35:18 ** To: thegamerz0608@gmail.com
+26-08-08 20:35:18 ** Subject: Pro Controller Gaming - Password Reset Request
+26-08-08 20:35:18 ** MIME-Version: 1.0
+26-08-08 20:35:18 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:35:18 ** From: Pro Controller Gaming <noreply@procontroller.com>
+26-08-08 20:35:18 ** Reply-To: support@procontroller.com
+26-08-08 20:35:18 ** 
+26-08-08 20:35:18 ** 
+26-08-08 20:35:18 **                     <!DOCTYPE html>
+26-08-08 20:35:18 **                     <html>
+26-08-08 20:35:18 **                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:35:18 **                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'>
+26-08-08 20:35:18 **                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2>
+26-08-08 20:35:18 **                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p>
+26-08-08 20:35:18 **                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p>
+26-08-08 20:35:18 **                             <p style='margin: 25px 0;'>
+26-08-08 20:35:18 **                                 <a href='http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a>
+26-08-08 20:35:18 **                             </p>
+26-08-08 20:35:18 **                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae</a></p>
+26-08-08 20:35:18 **                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p>
+26-08-08 20:35:18 **                         </div>
+26-08-08 20:35:18 **                     </body>
+26-08-08 20:35:18 **                     </html>
+26-08-08 20:35:18 ** --- MESSAGE END ---
+26-08-08 20:35:19 ** Connecting to smtp.gmail.com:587
+26-08-08 20:35:19 ** Connected.
+26-08-08 20:35:19 << 220 smtp.gmail.com ESMTP 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:19 >> EHLO localhost<EOL>
+26-08-08 20:35:20 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:35:20 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:35:20 >> STARTTLS<EOL>
+26-08-08 20:35:20 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:35:20 >> EHLO localhost<EOL>
+26-08-08 20:35:20 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:35:20 >> AUTH LOGIN<EOL>
+26-08-08 20:35:21 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:35:21 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:35:21 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:35:21 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:35:21 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:35:21 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:35:22 << 250 2.1.0 OK 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:22 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:35:22 << 250 2.1.5 OK 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:22 >> DATA<EOL>
+26-08-08 20:35:22 << 354 Go ahead 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:22 >> Date: Sat, 8 Aug 2026 20:35:22 +0530<EOL>
+26-08-08 20:35:22 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:35:22 >> Subject: Pro Controller Gaming - Password Reset Request<EOL>
+26-08-08 20:35:22 >> MIME-Version: 1.0<EOL>
+26-08-08 20:35:22 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:35:22 >> From: Pro Controller Gaming <noreply@procontroller.com><EOL>
+26-08-08 20:35:22 >> Reply-To: support@procontroller.com<EOL>
+26-08-08 20:35:22 >> <EOL>
+26-08-08 20:35:22 >> <EOL>
+26-08-08 20:35:22 >>                     <!DOCTYPE html><EOL>
+26-08-08 20:35:22 >>                     <html><EOL>
+26-08-08 20:35:22 >>                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:35:22 >>                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'><EOL>
+26-08-08 20:35:22 >>                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2><EOL>
+26-08-08 20:35:22 >>                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p><EOL>
+26-08-08 20:35:22 >>                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p><EOL>
+26-08-08 20:35:22 >>                             <p style='margin: 25px 0;'><EOL>
+26-08-08 20:35:22 >>                                 <a href='http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a><EOL>
+26-08-08 20:35:22 >>                             </p><EOL>
+26-08-08 20:35:22 >>                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=87ff87bd327d5093e11856c1583e3f90ef1503054db1713aa262ea1ac8cca2ae</a></p><EOL>
+26-08-08 20:35:22 >>                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p><EOL>
+26-08-08 20:35:22 >>                         </div><EOL>
+26-08-08 20:35:22 >>                     </body><EOL>
+26-08-08 20:35:22 >>                     </html><EOL>
+26-08-08 20:35:22 >> .<EOL>
+26-08-08 20:35:23 << 250 2.0.0 OK  1786201523 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:23 >> QUIT<EOL>
+26-08-08 20:35:24 << 221 2.0.0 closing connection 5a478bee46e88-315bec2ec20sm24570430eec.28 - gsmtp<EOL>
+26-08-08 20:35:24 ** Disconnected.
+26-08-08 20:35:24 ** Disconnected.
+26-08-08 20:35:24 ** Disconnected.
+26-08-08 20:41:31 ** --- MESSAGE BEGIN ---
+26-08-08 20:41:31 ** To: thegamerz0608@gmail.com
+26-08-08 20:41:31 ** Subject: Pro Controller Gaming - Password Reset Request
+26-08-08 20:41:31 ** MIME-Version: 1.0
+26-08-08 20:41:31 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:41:31 ** From: Pro Controller Gaming <noreply@procontroller.com>
+26-08-08 20:41:31 ** Reply-To: support@procontroller.com
+26-08-08 20:41:31 ** 
+26-08-08 20:41:31 ** 
+26-08-08 20:41:31 **                     <!DOCTYPE html>
+26-08-08 20:41:31 **                     <html>
+26-08-08 20:41:31 **                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:41:31 **                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'>
+26-08-08 20:41:31 **                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2>
+26-08-08 20:41:31 **                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p>
+26-08-08 20:41:31 **                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p>
+26-08-08 20:41:31 **                             <p style='margin: 25px 0;'>
+26-08-08 20:41:31 **                                 <a href='http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a>
+26-08-08 20:41:31 **                             </p>
+26-08-08 20:41:31 **                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de</a></p>
+26-08-08 20:41:31 **                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p>
+26-08-08 20:41:31 **                         </div>
+26-08-08 20:41:31 **                     </body>
+26-08-08 20:41:31 **                     </html>
+26-08-08 20:41:31 ** --- MESSAGE END ---
+26-08-08 20:41:31 ** Connecting to smtp.gmail.com:587
+26-08-08 20:41:32 ** Connected.
+26-08-08 20:41:32 << 220 smtp.gmail.com ESMTP a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:32 >> EHLO localhost<EOL>
+26-08-08 20:41:32 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:41:32 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:41:32 >> STARTTLS<EOL>
+26-08-08 20:41:33 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:41:33 >> EHLO localhost<EOL>
+26-08-08 20:41:33 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:41:33 >> AUTH LOGIN<EOL>
+26-08-08 20:41:34 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:41:34 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:41:34 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:41:34 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:41:34 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:41:34 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:41:35 << 250 2.1.0 OK a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:35 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:41:35 << 250 2.1.5 OK a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:35 >> DATA<EOL>
+26-08-08 20:41:35 << 354 Go ahead a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:35 >> Date: Sat, 8 Aug 2026 20:41:35 +0530<EOL>
+26-08-08 20:41:35 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:41:35 >> Subject: Pro Controller Gaming - Password Reset Request<EOL>
+26-08-08 20:41:35 >> MIME-Version: 1.0<EOL>
+26-08-08 20:41:35 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:41:35 >> From: Pro Controller Gaming <noreply@procontroller.com><EOL>
+26-08-08 20:41:35 >> Reply-To: support@procontroller.com<EOL>
+26-08-08 20:41:35 >> <EOL>
+26-08-08 20:41:35 >> <EOL>
+26-08-08 20:41:35 >>                     <!DOCTYPE html><EOL>
+26-08-08 20:41:35 >>                     <html><EOL>
+26-08-08 20:41:35 >>                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:41:35 >>                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'><EOL>
+26-08-08 20:41:35 >>                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2><EOL>
+26-08-08 20:41:35 >>                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p><EOL>
+26-08-08 20:41:35 >>                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p><EOL>
+26-08-08 20:41:35 >>                             <p style='margin: 25px 0;'><EOL>
+26-08-08 20:41:35 >>                                 <a href='http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a><EOL>
+26-08-08 20:41:35 >>                             </p><EOL>
+26-08-08 20:41:35 >>                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=bace07e5f7f5afbd64e4611c78c0eb95bc745fa5c421d8dcbb3208f1e426d7de</a></p><EOL>
+26-08-08 20:41:35 >>                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p><EOL>
+26-08-08 20:41:35 >>                         </div><EOL>
+26-08-08 20:41:35 >>                     </body><EOL>
+26-08-08 20:41:35 >>                     </html><EOL>
+26-08-08 20:41:35 >> .<EOL>
+26-08-08 20:41:36 << 250 2.0.0 OK  1786201896 a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:36 >> QUIT<EOL>
+26-08-08 20:41:36 << 221 2.0.0 closing connection a92af1059eb24-141019a0528sm18216202c88.1 - gsmtp<EOL>
+26-08-08 20:41:36 ** Disconnected.
+26-08-08 20:41:36 ** Disconnected.
+26-08-08 20:41:36 ** Disconnected.
+26-08-08 20:43:22 ** --- MESSAGE BEGIN ---
+26-08-08 20:43:22 ** To: thegamerz0608@gmail.com
+26-08-08 20:43:22 ** Subject: Pro Controller Gaming - Password Reset Successful
+26-08-08 20:43:22 ** MIME-Version: 1.0
+26-08-08 20:43:22 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:43:22 ** From: Pro Controller Gaming <noreply@procontroller.com>
+26-08-08 20:43:22 ** Reply-To: support@procontroller.com
+26-08-08 20:43:22 ** 
+26-08-08 20:43:22 ** 
+26-08-08 20:43:22 **                 <!DOCTYPE html>
+26-08-08 20:43:22 **                 <html>
+26-08-08 20:43:22 **                 <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:43:22 **                     <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ff88; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.3);'>
+26-08-08 20:43:22 **                         <h2 style='color: #00ff88; margin-top: 0;'>PASSWORD RESET SUCCESSFUL</h2>
+26-08-08 20:43:22 **                         <p style='font-size: 16px;'>Hello Gamer,</p>
+26-08-08 20:43:22 **                         <p>Your password for account <strong>thegamerz0608@gmail.com</strong> has been successfully updated.</p>
+26-08-08 20:43:22 **                         <div style='background: rgba(0, 255, 136, 0.1); border: 1px solid #00ff88; padding: 15px; border-radius: 10px; margin: 20px 0;'>
+26-08-08 20:43:22 **                             <p style='margin: 0 0 8px 0;'><strong>Updated Account Credentials:</strong></p>
+26-08-08 20:43:22 **                             <p style='margin: 0 0 5px 0;'>📧 Email: <strong style='color: #00ffff;'>thegamerz0608@gmail.com</strong></p>
+26-08-08 20:43:22 **                             <p style='margin: 0;'>🔑 New Password: <strong style='color: #00ff88; font-family: monospace; font-size: 16px;'>141141</strong></p>
+26-08-08 20:43:22 **                         </div>
+26-08-08 20:43:22 **                         <p style='margin: 25px 0;'>
+26-08-08 20:43:22 **                             <a href='http://localhost/sdx04/index.php' style='background: #00ff88; color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block;'>LOG IN TO YOUR ACCOUNT NOW</a>
+26-08-08 20:43:22 **                         </p>
+26-08-08 20:43:22 **                         <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>If you did not perform this password change, please contact an Administrator immediately.</p>
+26-08-08 20:43:22 **                     </div>
+26-08-08 20:43:22 **                 </body>
+26-08-08 20:43:22 **                 </html>
+26-08-08 20:43:22 ** --- MESSAGE END ---
+26-08-08 20:43:22 ** Connecting to smtp.gmail.com:587
+26-08-08 20:43:23 ** Connected.
+26-08-08 20:43:23 << 220 smtp.gmail.com ESMTP 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:23 >> EHLO localhost<EOL>
+26-08-08 20:43:23 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:43:23 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:43:23 >> STARTTLS<EOL>
+26-08-08 20:43:24 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:43:24 >> EHLO localhost<EOL>
+26-08-08 20:43:24 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:43:24 >> AUTH LOGIN<EOL>
+26-08-08 20:43:25 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:43:25 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:43:25 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:43:25 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:43:25 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:43:25 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:43:26 << 250 2.1.0 OK 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:26 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:43:26 << 250 2.1.5 OK 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:26 >> DATA<EOL>
+26-08-08 20:43:26 << 354 Go ahead 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:26 >> Date: Sat, 8 Aug 2026 20:43:26 +0530<EOL>
+26-08-08 20:43:26 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:43:26 >> Subject: Pro Controller Gaming - Password Reset Successful<EOL>
+26-08-08 20:43:26 >> MIME-Version: 1.0<EOL>
+26-08-08 20:43:26 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:43:26 >> From: Pro Controller Gaming <noreply@procontroller.com><EOL>
+26-08-08 20:43:26 >> Reply-To: support@procontroller.com<EOL>
+26-08-08 20:43:26 >> <EOL>
+26-08-08 20:43:26 >> <EOL>
+26-08-08 20:43:26 >>                 <!DOCTYPE html><EOL>
+26-08-08 20:43:26 >>                 <html><EOL>
+26-08-08 20:43:26 >>                 <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:43:26 >>                     <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ff88; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.3);'><EOL>
+26-08-08 20:43:26 >>                         <h2 style='color: #00ff88; margin-top: 0;'>PASSWORD RESET SUCCESSFUL</h2><EOL>
+26-08-08 20:43:26 >>                         <p style='font-size: 16px;'>Hello Gamer,</p><EOL>
+26-08-08 20:43:26 >>                         <p>Your password for account <strong>thegamerz0608@gmail.com</strong> has been successfully updated.</p><EOL>
+26-08-08 20:43:26 >>                         <div style='background: rgba(0, 255, 136, 0.1); border: 1px solid #00ff88; padding: 15px; border-radius: 10px; margin: 20px 0;'><EOL>
+26-08-08 20:43:26 >>                             <p style='margin: 0 0 8px 0;'><strong>Updated Account Credentials:</strong></p><EOL>
+26-08-08 20:43:26 >>                             <p style='margin: 0 0 5px 0;'>📧 Email: <strong style='color: #00ffff;'>thegamerz0608@gmail.com</strong></p><EOL>
+26-08-08 20:43:26 >>                             <p style='margin: 0;'>🔑 New Password: <strong style='color: #00ff88; font-family: monospace; font-size: 16px;'>141141</strong></p><EOL>
+26-08-08 20:43:26 >>                         </div><EOL>
+26-08-08 20:43:26 >>                         <p style='margin: 25px 0;'><EOL>
+26-08-08 20:43:26 >>                             <a href='http://localhost/sdx04/index.php' style='background: #00ff88; color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block;'>LOG IN TO YOUR ACCOUNT NOW</a><EOL>
+26-08-08 20:43:26 >>                         </p><EOL>
+26-08-08 20:43:26 >>                         <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>If you did not perform this password change, please contact an Administrator immediately.</p><EOL>
+26-08-08 20:43:26 >>                     </div><EOL>
+26-08-08 20:43:26 >>                 </body><EOL>
+26-08-08 20:43:26 >>                 </html><EOL>
+26-08-08 20:43:26 >> .<EOL>
+26-08-08 20:43:27 << 250 2.0.0 OK  1786202007 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:27 >> QUIT<EOL>
+26-08-08 20:43:28 << 221 2.0.0 closing connection 5a478bee46e88-315bebde308sm20564091eec.20 - gsmtp<EOL>
+26-08-08 20:43:28 ** Disconnected.
+26-08-08 20:43:28 ** Disconnected.
+26-08-08 20:43:28 ** Disconnected.
+26-08-08 20:54:06 ** --- MESSAGE BEGIN ---
+26-08-08 20:54:06 ** To: thegamerz0608@gmail.com
+26-08-08 20:54:06 ** Subject: Pro Controller Gaming - Password Reset Request
+26-08-08 20:54:06 ** MIME-Version: 1.0
+26-08-08 20:54:06 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:54:06 ** From: Pro Controller Gaming <motosdx04@gmail.com>
+26-08-08 20:54:06 ** Reply-To: motosdx04@gmail.com
+26-08-08 20:54:06 ** X-Mailer: PHP/8.2.12
+26-08-08 20:54:06 ** Auto-Submitted: auto-generated
+26-08-08 20:54:06 ** 
+26-08-08 20:54:06 ** 
+26-08-08 20:54:06 **                     <!DOCTYPE html>
+26-08-08 20:54:06 **                     <html>
+26-08-08 20:54:06 **                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:54:06 **                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'>
+26-08-08 20:54:06 **                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2>
+26-08-08 20:54:06 **                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p>
+26-08-08 20:54:06 **                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p>
+26-08-08 20:54:06 **                             <p style='margin: 25px 0;'>
+26-08-08 20:54:06 **                                 <a href='http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a>
+26-08-08 20:54:06 **                             </p>
+26-08-08 20:54:06 **                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc</a></p>
+26-08-08 20:54:06 **                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p>
+26-08-08 20:54:06 **                         </div>
+26-08-08 20:54:06 **                     </body>
+26-08-08 20:54:06 **                     </html>
+26-08-08 20:54:06 ** --- MESSAGE END ---
+26-08-08 20:54:06 ** Connecting to smtp.gmail.com:587
+26-08-08 20:54:06 ** Connected.
+26-08-08 20:54:07 << 220 smtp.gmail.com ESMTP 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:07 >> EHLO localhost<EOL>
+26-08-08 20:54:07 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:54:07 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:54:07 >> STARTTLS<EOL>
+26-08-08 20:54:07 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:54:08 >> EHLO localhost<EOL>
+26-08-08 20:54:08 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:54:08 >> AUTH LOGIN<EOL>
+26-08-08 20:54:08 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:54:08 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:54:08 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:54:08 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:54:09 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:54:09 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:54:09 << 250 2.1.0 OK 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:09 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:54:09 << 250 2.1.5 OK 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:09 >> DATA<EOL>
+26-08-08 20:54:10 << 354 Go ahead 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:10 >> Date: Sat, 8 Aug 2026 20:54:10 +0530<EOL>
+26-08-08 20:54:10 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:54:10 >> Subject: Pro Controller Gaming - Password Reset Request<EOL>
+26-08-08 20:54:10 >> MIME-Version: 1.0<EOL>
+26-08-08 20:54:10 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:54:10 >> From: Pro Controller Gaming <motosdx04@gmail.com><EOL>
+26-08-08 20:54:10 >> Reply-To: motosdx04@gmail.com<EOL>
+26-08-08 20:54:10 >> X-Mailer: PHP/8.2.12<EOL>
+26-08-08 20:54:10 >> Auto-Submitted: auto-generated<EOL>
+26-08-08 20:54:10 >> <EOL>
+26-08-08 20:54:10 >> <EOL>
+26-08-08 20:54:10 >>                     <!DOCTYPE html><EOL>
+26-08-08 20:54:10 >>                     <html><EOL>
+26-08-08 20:54:10 >>                     <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:54:10 >>                         <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ffff; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);'><EOL>
+26-08-08 20:54:10 >>                             <h2 style='color: #00ffff; margin-top: 0;'>PRO CONTROLLER GAMING</h2><EOL>
+26-08-08 20:54:10 >>                             <p style='font-size: 16px;'>Hello <strong style='color: #00ffff;'>sdx1</strong>,</p><EOL>
+26-08-08 20:54:10 >>                             <p>We received a request to reset your password for account <strong>thegamerz0608@gmail.com</strong>.</p><EOL>
+26-08-08 20:54:10 >>                             <p style='margin: 25px 0;'><EOL>
+26-08-08 20:54:10 >>                                 <a href='http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc' style='background: linear-gradient(135deg, #00ffff, #0088cc); color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block; box-shadow: 0 0 15px #00ffff;'>RESET MY PASSWORD NOW</a><EOL>
+26-08-08 20:54:10 >>                             </p><EOL>
+26-08-08 20:54:10 >>                             <p style='font-size: 13px; color: #aaaaaa;'>Or copy and paste this link into your browser:<br><a href='http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc' style='color: #00ffff; word-break: break-all;'>http://localhost/sdx04/reset_password.php?token=0b1f2e5d8d09bc87c7d352c9b6e87494c7f93e217b6bd6cb1a4bd76edc4161dc</a></p><EOL>
+26-08-08 20:54:10 >>                             <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>This link is valid for 1 hour. If you did not request a password reset, please ignore this email.</p><EOL>
+26-08-08 20:54:10 >>                         </div><EOL>
+26-08-08 20:54:10 >>                     </body><EOL>
+26-08-08 20:54:10 >>                     </html><EOL>
+26-08-08 20:54:10 >> .<EOL>
+26-08-08 20:54:11 << 250 2.0.0 OK  1786202651 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:11 >> QUIT<EOL>
+26-08-08 20:54:11 << 221 2.0.0 closing connection 5a478bee46e88-315be8a754dsm19097409eec.11 - gsmtp<EOL>
+26-08-08 20:54:11 ** Disconnected.
+26-08-08 20:54:11 ** Disconnected.
+26-08-08 20:54:11 ** Disconnected.
+26-08-08 20:55:04 ** --- MESSAGE BEGIN ---
+26-08-08 20:55:04 ** To: thegamerz0608@gmail.com
+26-08-08 20:55:04 ** Subject: Security Alert: Password Reset Successful
+26-08-08 20:55:04 ** MIME-Version: 1.0
+26-08-08 20:55:04 ** Content-type: text/html; charset=UTF-8
+26-08-08 20:55:04 ** From: Pro Controller Gaming <motosdx04@gmail.com>
+26-08-08 20:55:04 ** Reply-To: motosdx04@gmail.com
+26-08-08 20:55:04 ** X-Mailer: PHP/8.2.12
+26-08-08 20:55:04 ** Auto-Submitted: auto-generated
+26-08-08 20:55:04 ** 
+26-08-08 20:55:04 ** 
+26-08-08 20:55:04 **                 <!DOCTYPE html>
+26-08-08 20:55:04 **                 <html>
+26-08-08 20:55:04 **                 <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'>
+26-08-08 20:55:04 **                     <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ff88; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.3);'>
+26-08-08 20:55:04 **                         <h2 style='color: #00ff88; margin-top: 0;'>PASSWORD RESET SUCCESSFUL</h2>
+26-08-08 20:55:04 **                         <p style='font-size: 16px;'>Hello Gamer,</p>
+26-08-08 20:55:04 **                         <p>This email confirms that the password for your account <strong>thegamerz0608@gmail.com</strong> has been successfully changed.</p>
+26-08-08 20:55:04 **                         <div style='background: rgba(0, 255, 136, 0.1); border-left: 4px solid #00ff88; padding: 15px; border-radius: 6px; margin: 20px 0;'>
+26-08-08 20:55:04 **                             <p style='margin: 0; color: #ffffff; font-size: 14px;'>🔒 <strong>Security Notice:</strong> Your account password was securely updated. For your security, passwords are never sent in plain text emails.</p>
+26-08-08 20:55:04 **                         </div>
+26-08-08 20:55:04 **                         <p style='margin: 25px 0;'>
+26-08-08 20:55:04 **                             <a href='http://localhost/sdx04/index.php' style='background: #00ff88; color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block;'>LOG IN TO YOUR ACCOUNT NOW</a>
+26-08-08 20:55:04 **                         </p>
+26-08-08 20:55:04 **                         <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>If you did not perform this password change, please contact an Administrator immediately to secure your account.</p>
+26-08-08 20:55:04 **                     </div>
+26-08-08 20:55:04 **                 </body>
+26-08-08 20:55:04 **                 </html>
+26-08-08 20:55:04 ** --- MESSAGE END ---
+26-08-08 20:55:04 ** Connecting to smtp.gmail.com:587
+26-08-08 20:55:05 ** Connected.
+26-08-08 20:55:05 << 220 smtp.gmail.com ESMTP 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:05 >> EHLO localhost<EOL>
+26-08-08 20:55:05 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:55:05 ** Authenticating as motosdx04@gmail.com
+26-08-08 20:55:05 >> STARTTLS<EOL>
+26-08-08 20:55:06 << 220 2.0.0 Ready to start TLS<EOL>
+26-08-08 20:55:06 >> EHLO localhost<EOL>
+26-08-08 20:55:06 << 250-smtp.gmail.com at your service, [103.62.150.1]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+26-08-08 20:55:06 >> AUTH LOGIN<EOL>
+26-08-08 20:55:06 << 334 VXNlcm5hbWU6<EOL>
+26-08-08 20:55:06 >> bW90b3NkeDA0QGdtYWlsLmNvbQ==<EOL>
+26-08-08 20:55:07 << 334 UGFzc3dvcmQ6<EOL>
+26-08-08 20:55:07 >> ZmN0bmhnYmF4dnRmZnV6Zg==<EOL>
+26-08-08 20:55:07 << 235 2.7.0 Accepted<EOL>
+26-08-08 20:55:07 >> MAIL FROM: <motosdx04@gmail.com><EOL>
+26-08-08 20:55:08 << 250 2.1.0 OK 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:08 >> RCPT TO: <thegamerz0608@gmail.com><EOL>
+26-08-08 20:55:08 << 250 2.1.5 OK 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:08 >> DATA<EOL>
+26-08-08 20:55:08 << 354 Go ahead 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:08 >> Date: Sat, 8 Aug 2026 20:55:08 +0530<EOL>
+26-08-08 20:55:08 >> To: thegamerz0608@gmail.com<EOL>
+26-08-08 20:55:08 >> Subject: Security Alert: Password Reset Successful<EOL>
+26-08-08 20:55:08 >> MIME-Version: 1.0<EOL>
+26-08-08 20:55:08 >> Content-type: text/html; charset=UTF-8<EOL>
+26-08-08 20:55:08 >> From: Pro Controller Gaming <motosdx04@gmail.com><EOL>
+26-08-08 20:55:08 >> Reply-To: motosdx04@gmail.com<EOL>
+26-08-08 20:55:08 >> X-Mailer: PHP/8.2.12<EOL>
+26-08-08 20:55:08 >> Auto-Submitted: auto-generated<EOL>
+26-08-08 20:55:08 >> <EOL>
+26-08-08 20:55:08 >> <EOL>
+26-08-08 20:55:08 >>                 <!DOCTYPE html><EOL>
+26-08-08 20:55:08 >>                 <html><EOL>
+26-08-08 20:55:08 >>                 <body style='font-family: Arial, sans-serif; background-color: #0a0b10; color: #ffffff; padding: 30px;'><EOL>
+26-08-08 20:55:08 >>                     <div style='max-width: 600px; margin: 0 auto; background: #121622; border: 1px solid #00ff88; padding: 30px; border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 136, 0.3);'><EOL>
+26-08-08 20:55:08 >>                         <h2 style='color: #00ff88; margin-top: 0;'>PASSWORD RESET SUCCESSFUL</h2><EOL>
+26-08-08 20:55:08 >>                         <p style='font-size: 16px;'>Hello Gamer,</p><EOL>
+26-08-08 20:55:08 >>                         <p>This email confirms that the password for your account <strong>thegamerz0608@gmail.com</strong> has been successfully changed.</p><EOL>
+26-08-08 20:55:08 >>                         <div style='background: rgba(0, 255, 136, 0.1); border-left: 4px solid #00ff88; padding: 15px; border-radius: 6px; margin: 20px 0;'><EOL>
+26-08-08 20:55:08 >>                             <p style='margin: 0; color: #ffffff; font-size: 14px;'>🔒 <strong>Security Notice:</strong> Your account password was securely updated. For your security, passwords are never sent in plain text emails.</p><EOL>
+26-08-08 20:55:08 >>                         </div><EOL>
+26-08-08 20:55:08 >>                         <p style='margin: 25px 0;'><EOL>
+26-08-08 20:55:08 >>                             <a href='http://localhost/sdx04/index.php' style='background: #00ff88; color: #000000; padding: 14px 28px; font-weight: bold; border-radius: 25px; text-decoration: none; display: inline-block;'>LOG IN TO YOUR ACCOUNT NOW</a><EOL>
+26-08-08 20:55:08 >>                         </p><EOL>
+26-08-08 20:55:08 >>                         <p style='font-size: 12px; color: #777777; margin-top: 20px; border-top: 1px solid #222; padding-top: 10px;'>If you did not perform this password change, please contact an Administrator immediately to secure your account.</p><EOL>
+26-08-08 20:55:08 >>                     </div><EOL>
+26-08-08 20:55:08 >>                 </body><EOL>
+26-08-08 20:55:08 >>                 </html><EOL>
+26-08-08 20:55:08 >> .<EOL>
+26-08-08 20:55:09 << 250 2.0.0 OK  1786202709 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:09 >> QUIT<EOL>
+26-08-08 20:55:10 << 221 2.0.0 closing connection 5a478bee46e88-315bebdf796sm19336085eec.22 - gsmtp<EOL>
+26-08-08 20:55:10 ** Disconnected.
+26-08-08 20:55:10 ** Disconnected.
+26-08-08 20:55:10 ** Disconnected.

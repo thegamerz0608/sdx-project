@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('4.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.message-container {
+    background-color: rgba(50, 50, 50, 0.8); /* Semi-transparent background */
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Neon Glow Text for h1 */
+h1 {
+    margin-bottom: 15px;
+    color: #00ffff; /* Bright cyan similar to the image */
+    font-weight: bold;
+    text-shadow:
+        0 0 5px #00ffff,
+        0 0 10px #00ffff,
+        0 0 20px #00ffff,
+        0 0 40px #00ffff;
+}
+
+/* Neon Style for Links */
+a {
+    color: #00ffff;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow:
+        0 0 5px #00ffff,
+        0 0 10px #00ffff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Glowing secondary text style */
+p, .error, .success {
+    color: #ffffff;
+    text-shadow:
+        0 0 2px #00ffff,
+        0 0 5px #00ffff;
+    font-size: 16px;
+}

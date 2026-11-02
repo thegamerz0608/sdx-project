@@ -1,0 +1,5 @@
+id,faculty_id,employee_code,faculty_name,department_id,department_code,attendance_date,login_time,logout_time,status,late_minutes,working_hours,early_departure_minutes,is_flagged
+1,2,F001,Dr. Suresh Kumar,1,MCA,2026-09-01,08:55:00,17:05:00,PRESENT,0,8.16,0,0
+2,3,F002,Rahul Sharma,1,MCA,2026-09-01,09:12:00,17:00:00,PRESENT,12,7.8,0,0
+3,3,F002,Rahul Sharma,1,MCA,2026-09-02,09:05:00,16:30:00,PRESENT,5,7.41,0,0
+4,4,F003,Priya Verma,1,MCA,2026-09-01,09:00:00,17:00:00,PRESENT,0,8.0,0,0

@@ -1,0 +1,22 @@
+# ==============================================================================
+# Development, Testing, Security Audit & Quality Toolchain
+# ==============================================================================
+-r requirements.txt
+
+# Testing & Code Coverage
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code Quality, Formatting & Static Analysis
+ruff>=0.1.0
+mypy>=1.5.0
+bandit>=1.7.5
+pip-audit>=2.6.0
+
+# Offline Scientific Parity Benchmark (tools/validate_against_sklearn.py ONLY)
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Constraint Satisfaction & Load Testing
+ortools>=9.7.0
+locust>=2.15.0

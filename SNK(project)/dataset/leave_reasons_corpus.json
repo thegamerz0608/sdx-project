@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "text": "I need to attend a family function at my hometown.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 2,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 3,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 4,
+    "text": "Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 5,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 6,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 7,
+    "text": "Urgent plumbing and electrical repair work at my residence. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 8,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 9,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 10,
+    "text": "Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 11,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 12,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 13,
+    "text": "Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 14,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 15,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 16,
+    "text": "I need to attend a family function at my hometown. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 17,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 18,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 19,
+    "text": "Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 20,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 21,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 22,
+    "text": "Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 23,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 24,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 25,
+    "text": "Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 26,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 27,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 28,
+    "text": "Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 29,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 30,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 31,
+    "text": "I need to attend a family function at my hometown.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 32,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 33,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 34,
+    "text": "Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 35,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 36,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 37,
+    "text": "Urgent plumbing and electrical repair work at my residence. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 38,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 39,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 40,
+    "text": "Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 41,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 42,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 43,
+    "text": "Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 44,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 45,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 46,
+    "text": "I need to attend a family function at my hometown. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 47,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 48,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 49,
+    "text": "Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 50,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 51,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 52,
+    "text": "Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 53,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 54,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 55,
+    "text": "Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 56,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 57,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 58,
+    "text": "Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 59,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 60,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 61,
+    "text": "I need to attend a family function at my hometown.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 62,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 63,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 64,
+    "text": "Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 65,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 66,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 67,
+    "text": "Urgent plumbing and electrical repair work at my residence. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 68,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 69,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 70,
+    "text": "Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 71,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 72,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 73,
+    "text": "Need leave to take my mother to government office for pension verification. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 74,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 75,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 76,
+    "text": "I need to attend a family function at my hometown. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 77,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 78,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. i will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 79,
+    "text": "Need one day leave for personal banking and property documentation work. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 80,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 81,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 82,
+    "text": "Urgent plumbing and electrical repair work at my residence. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 83,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. Requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 84,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 85,
+    "text": "Need casual leave for apartment society management committee meeting. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 86,
+    "text": "Respected Sir/Madam, Personal errand regarding Aadhaar card address update and passport verification. Kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 87,
+    "text": "Due to urgent reasons, family emergency at home requiring my presence. thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 88,
+    "text": "Need leave to take my mother to government office for pension verification. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 89,
+    "text": "Respected Sir/Madam, Attending house warming ceremony of a close relative. Necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 90,
+    "text": "Due to urgent reasons, personal work related to home loan processing at bank branch. i have informed the hod regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 91,
+    "text": "I need to attend a family function at my hometown.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 92,
+    "text": "Respected Sir/Madam, Personal work at the local RTO office for driving license renewal. Please grant me leave for the same.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 93,
+    "text": "Due to urgent reasons, urgent domestic work at home regarding house renovation. requesting you to kindly approve my application.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 94,
+    "text": "Need one day leave for personal banking and property documentation work. Doctor certificate is attached herewith for your reference.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 95,
+    "text": "Respected Sir/Madam, Attending my cousin's wedding ceremony in Bangalore. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 96,
+    "text": "Due to urgent reasons, need leave for child's school annual day function and parent teacher meeting. kindly consider my request and grant permission.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 97,
+    "text": "Urgent plumbing and electrical repair work at my residence. Thanking you in advance.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 98,
+    "text": "Respected Sir/Madam, I have some urgent personal commitments to attend to at my native place. I will resume duties immediately upon return.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 99,
+    "text": "Due to urgent reasons, attending family religious ceremony and pooja at home. necessary supporting documents have been uploaded.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 100,
+    "text": "Need casual leave for apartment society management committee meeting. I have informed the HOD regarding lecture adjustments.",
+    "label": "CL",
+    "leave_type_name": "Casual Leave"
+  },
+  {
+    "id": 101,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 102,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 103,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 104,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 105,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 106,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 107,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 108,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 109,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 110,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 111,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 112,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 113,
+    "text": "Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 114,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 115,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 116,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 117,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 118,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 119,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 120,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 121,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 122,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 123,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 124,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 125,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 126,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 127,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 128,
+    "text": "Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 129,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 130,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 131,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 132,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 133,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 134,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 135,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 136,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 137,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 138,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 139,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 140,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 141,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 142,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 143,
+    "text": "Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 144,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 145,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 146,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 147,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 148,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 149,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 150,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 151,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 152,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 153,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 154,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 155,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 156,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 157,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 158,
+    "text": "Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 159,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 160,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 161,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 162,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 163,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 164,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 165,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 166,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 167,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 168,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 169,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 170,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 171,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 172,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 173,
+    "text": "Doctor advised medical rest following minor surgical procedure. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 174,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 175,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 176,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 177,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 178,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. i will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 179,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 180,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 181,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 182,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 183,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. Requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 184,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 185,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 186,
+    "text": "Respected Sir/Madam, Eye infection conjunctivitis doctor advised 3 days rest to prevent spread. Kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 187,
+    "text": "Due to urgent reasons, severe asthma attack and respiratory allergy needing bed rest. thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 188,
+    "text": "Doctor advised medical rest following minor surgical procedure. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 189,
+    "text": "Respected Sir/Madam, Physically unwell with acute bronchitis and persistent coughing. Necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 190,
+    "text": "Due to urgent reasons, accidental wrist sprain needing immobilization and medical leave. i have informed the hod regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 191,
+    "text": "I am suffering from severe viral fever and doctor advised 3 days bed rest.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 192,
+    "text": "Respected Sir/Madam, Severe migraine headache and nausea since yesterday morning. Please grant me leave for the same.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 193,
+    "text": "Due to urgent reasons, admitted to hospital for emergency appendicitis surgery and post-op care. requesting you to kindly approve my application.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 194,
+    "text": "Underwent dental root canal treatment and advised rest by dentist. Doctor certificate is attached herewith for your reference.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 195,
+    "text": "Respected Sir/Madam, Diagnosed with acute typhoid fever and prescribed medication rest for 5 days. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 196,
+    "text": "Due to urgent reasons, severe back pain due to lumbar sprain, physician recommended complete bed rest. kindly consider my request and grant permission.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 197,
+    "text": "High body temperature and chest infection, doctor advised isolation and medicine. Thanking you in advance.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 198,
+    "text": "Respected Sir/Madam, Sustained leg fracture during sports and unable to walk or commute. I will resume duties immediately upon return.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 199,
+    "text": "Due to urgent reasons, food poisoning and gastroenteritis leading to weakness and dehydration. necessary supporting documents have been uploaded.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 200,
+    "text": "Undergoing outpatient diagnostic tests and ultrasound scan at hospital. I have informed the HOD regarding lecture adjustments.",
+    "label": "ML",
+    "leave_type_name": "Medical Leave"
+  },
+  {
+    "id": 201,
+    "text": "Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 202,
+    "text": "Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 203,
+    "text": "Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 204,
+    "text": "Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 205,
+    "text": "Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 206,
+    "text": "Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 207,
+    "text": "Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 208,
+    "text": "Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 209,
+    "text": "Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 210,
+    "text": "Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 211,
+    "text": "Respected Sir/Madam, Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 212,
+    "text": "Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 213,
+    "text": "Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 214,
+    "text": "Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 215,
+    "text": "Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 216,
+    "text": "Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 217,
+    "text": "Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 218,
+    "text": "Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 219,
+    "text": "Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 220,
+    "text": "Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 221,
+    "text": "Due to urgent reasons, planning extended annual family vacation trip to north india.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 222,
+    "text": "Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 223,
+    "text": "Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 224,
+    "text": "Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 225,
+    "text": "Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 226,
+    "text": "Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 227,
+    "text": "Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 228,
+    "text": "Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 229,
+    "text": "Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 230,
+    "text": "Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 231,
+    "text": "Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 232,
+    "text": "Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 233,
+    "text": "Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 234,
+    "text": "Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 235,
+    "text": "Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 236,
+    "text": "Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 237,
+    "text": "Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 238,
+    "text": "Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 239,
+    "text": "Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 240,
+    "text": "Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 241,
+    "text": "Respected Sir/Madam, Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 242,
+    "text": "Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 243,
+    "text": "Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 244,
+    "text": "Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 245,
+    "text": "Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 246,
+    "text": "Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 247,
+    "text": "Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 248,
+    "text": "Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 249,
+    "text": "Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 250,
+    "text": "Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 251,
+    "text": "Due to urgent reasons, planning extended annual family vacation trip to north india.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 252,
+    "text": "Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 253,
+    "text": "Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 254,
+    "text": "Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 255,
+    "text": "Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 256,
+    "text": "Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 257,
+    "text": "Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 258,
+    "text": "Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 259,
+    "text": "Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 260,
+    "text": "Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 261,
+    "text": "Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 262,
+    "text": "Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 263,
+    "text": "Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 264,
+    "text": "Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 265,
+    "text": "Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 266,
+    "text": "Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 267,
+    "text": "Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 268,
+    "text": "Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 269,
+    "text": "Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 270,
+    "text": "Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 271,
+    "text": "Respected Sir/Madam, Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 272,
+    "text": "Due to urgent reasons, availing earned leave for long planned international family tour. please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 273,
+    "text": "Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 274,
+    "text": "Respected Sir/Madam, Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 275,
+    "text": "Due to urgent reasons, earned leave application for leisure trip to kerala with family during break. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 276,
+    "text": "Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 277,
+    "text": "Respected Sir/Madam, Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 278,
+    "text": "Due to urgent reasons, annual leave for family vacation and rest after continuous semester duties. i will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 279,
+    "text": "Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 280,
+    "text": "Respected Sir/Madam, Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 281,
+    "text": "Due to urgent reasons, planning extended annual family vacation trip to north india.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 282,
+    "text": "Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 283,
+    "text": "Respected Sir/Madam, Taking 10 days earned leave for daughter's marriage preparations and reception. Requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 284,
+    "text": "Due to urgent reasons, extended domestic leave for ancestral property division and registration. doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 285,
+    "text": "Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 286,
+    "text": "Respected Sir/Madam, Requesting 7 days earned leave for pilgrimage trip to Tirupati and Varanasi. Kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 287,
+    "text": "Due to urgent reasons, personal long leave for house construction supervision in hometown. thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 288,
+    "text": "Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 289,
+    "text": "Respected Sir/Madam, Availing earned leave for elder son's higher education admission in Delhi. Necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 290,
+    "text": "Due to urgent reasons, extended leave for attending international family reunion event. i have informed the hod regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 291,
+    "text": "Planning extended annual family vacation trip to North India.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 292,
+    "text": "Respected Sir/Madam, Availing earned leave for long planned international family tour. Please grant me leave for the same.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 293,
+    "text": "Due to urgent reasons, taking 10 days earned leave for daughter's marriage preparations and reception. requesting you to kindly approve my application.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 294,
+    "text": "Extended domestic leave for ancestral property division and registration. Doctor certificate is attached herewith for your reference.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 295,
+    "text": "Respected Sir/Madam, Earned leave application for leisure trip to Kerala with family during break. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 296,
+    "text": "Due to urgent reasons, requesting 7 days earned leave for pilgrimage trip to tirupati and varanasi. kindly consider my request and grant permission.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 297,
+    "text": "Personal long leave for house construction supervision in hometown. Thanking you in advance.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 298,
+    "text": "Respected Sir/Madam, Annual leave for family vacation and rest after continuous semester duties. I will resume duties immediately upon return.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 299,
+    "text": "Due to urgent reasons, availing earned leave for elder son's higher education admission in delhi. necessary supporting documents have been uploaded.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 300,
+    "text": "Extended leave for attending international family reunion event. I have informed the HOD regarding lecture adjustments.",
+    "label": "EL",
+    "leave_type_name": "Earned Leave"
+  },
+  {
+    "id": 301,
+    "text": "Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 302,
+    "text": "Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 303,
+    "text": "Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 304,
+    "text": "Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 305,
+    "text": "Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 306,
+    "text": "Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 307,
+    "text": "Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 308,
+    "text": "Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 309,
+    "text": "Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 310,
+    "text": "Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 311,
+    "text": "Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 312,
+    "text": "Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 313,
+    "text": "Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 314,
+    "text": "Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 315,
+    "text": "Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 316,
+    "text": "Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 317,
+    "text": "Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 318,
+    "text": "Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 319,
+    "text": "Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 320,
+    "text": "Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 321,
+    "text": "Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 322,
+    "text": "Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 323,
+    "text": "Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 324,
+    "text": "Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 325,
+    "text": "Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 326,
+    "text": "Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 327,
+    "text": "Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 328,
+    "text": "Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 329,
+    "text": "Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 330,
+    "text": "Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 331,
+    "text": "Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 332,
+    "text": "Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 333,
+    "text": "Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 334,
+    "text": "Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 335,
+    "text": "Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 336,
+    "text": "Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 337,
+    "text": "Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 338,
+    "text": "Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 339,
+    "text": "Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 340,
+    "text": "Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 341,
+    "text": "Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 342,
+    "text": "Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 343,
+    "text": "Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 344,
+    "text": "Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 345,
+    "text": "Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 346,
+    "text": "Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 347,
+    "text": "Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 348,
+    "text": "Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 349,
+    "text": "Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 350,
+    "text": "Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 351,
+    "text": "Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 352,
+    "text": "Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 353,
+    "text": "Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 354,
+    "text": "Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 355,
+    "text": "Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 356,
+    "text": "Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 357,
+    "text": "Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 358,
+    "text": "Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 359,
+    "text": "Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 360,
+    "text": "Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 361,
+    "text": "Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 362,
+    "text": "Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 363,
+    "text": "Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 364,
+    "text": "Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 365,
+    "text": "Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 366,
+    "text": "Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 367,
+    "text": "Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 368,
+    "text": "Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 369,
+    "text": "Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 370,
+    "text": "Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 371,
+    "text": "Respected Sir/Madam, Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 372,
+    "text": "Due to urgent reasons, participating in 5-day aicte sponsored faculty development program on machine learning. please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 373,
+    "text": "Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 374,
+    "text": "Respected Sir/Madam, Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 375,
+    "text": "Due to urgent reasons, attending national level research workshop on deep learning in iit madras. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 376,
+    "text": "Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 377,
+    "text": "Respected Sir/Madam, Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 378,
+    "text": "Due to urgent reasons, participating in dst sponsored research project review committee meeting. i will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 379,
+    "text": "Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 380,
+    "text": "Respected Sir/Madam, Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 381,
+    "text": "Due to urgent reasons, attending ieee international conference on artificial intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 382,
+    "text": "Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 383,
+    "text": "Respected Sir/Madam, Deputed for VTU University semester end practical examination evaluation duty. Requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 384,
+    "text": "Due to urgent reasons, invited as key speaker for national seminar on cybersecurity at mit manipal. doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 385,
+    "text": "Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 386,
+    "text": "Respected Sir/Madam, Special casual leave for conducting PhD viva-voce examination as external referee. Kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 387,
+    "text": "Due to urgent reasons, delivering guest lecture on cloud computing at regional engineering college. thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 388,
+    "text": "Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 389,
+    "text": "Respected Sir/Madam, Attending National Board of Accreditation (NBA) evaluator orientation workshop. Necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 390,
+    "text": "Due to urgent reasons, deputed as chief superintendent for central evaluation of university answer scripts. i have informed the hod regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 391,
+    "text": "Attending IEEE International Conference on Artificial Intelligence to present paper.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 392,
+    "text": "Respected Sir/Madam, Participating in 5-day AICTE sponsored Faculty Development Program on Machine Learning. Please grant me leave for the same.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 393,
+    "text": "Due to urgent reasons, deputed for vtu university semester end practical examination evaluation duty. requesting you to kindly approve my application.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 394,
+    "text": "Invited as key speaker for national seminar on Cybersecurity at MIT Manipal. Doctor certificate is attached herewith for your reference.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 395,
+    "text": "Respected Sir/Madam, Attending national level research workshop on Deep Learning in IIT Madras. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 396,
+    "text": "Due to urgent reasons, special casual leave for conducting phd viva-voce examination as external referee. kindly consider my request and grant permission.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 397,
+    "text": "Delivering guest lecture on Cloud Computing at Regional Engineering College. Thanking you in advance.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 398,
+    "text": "Respected Sir/Madam, Participating in DST sponsored research project review committee meeting. I will resume duties immediately upon return.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 399,
+    "text": "Due to urgent reasons, attending national board of accreditation (nba) evaluator orientation workshop. necessary supporting documents have been uploaded.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 400,
+    "text": "Deputed as chief superintendent for central evaluation of university answer scripts. I have informed the HOD regarding lecture adjustments.",
+    "label": "SCL",
+    "leave_type_name": "Special Casual Leave"
+  },
+  {
+    "id": 401,
+    "text": "Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 402,
+    "text": "Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 403,
+    "text": "Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 404,
+    "text": "Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 405,
+    "text": "Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 406,
+    "text": "Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 407,
+    "text": "On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 408,
+    "text": "Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 409,
+    "text": "Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 410,
+    "text": "Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 411,
+    "text": "Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 412,
+    "text": "Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 413,
+    "text": "On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 414,
+    "text": "Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 415,
+    "text": "Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 416,
+    "text": "Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 417,
+    "text": "Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 418,
+    "text": "Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 419,
+    "text": "On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 420,
+    "text": "Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 421,
+    "text": "Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 422,
+    "text": "Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 423,
+    "text": "Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 424,
+    "text": "Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 425,
+    "text": "Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 426,
+    "text": "Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 427,
+    "text": "Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 428,
+    "text": "Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 429,
+    "text": "Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 430,
+    "text": "Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 431,
+    "text": "Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 432,
+    "text": "Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 433,
+    "text": "Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 434,
+    "text": "Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 435,
+    "text": "Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 436,
+    "text": "Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 437,
+    "text": "On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 438,
+    "text": "Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 439,
+    "text": "Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 440,
+    "text": "Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 441,
+    "text": "Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 442,
+    "text": "Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 443,
+    "text": "On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 444,
+    "text": "Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 445,
+    "text": "Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 446,
+    "text": "Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 447,
+    "text": "Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 448,
+    "text": "Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 449,
+    "text": "On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 450,
+    "text": "Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 451,
+    "text": "Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 452,
+    "text": "Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 453,
+    "text": "Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 454,
+    "text": "Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 455,
+    "text": "Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 456,
+    "text": "Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 457,
+    "text": "Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 458,
+    "text": "Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 459,
+    "text": "Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 460,
+    "text": "Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 461,
+    "text": "Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 462,
+    "text": "Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 463,
+    "text": "Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 464,
+    "text": "Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 465,
+    "text": "Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 466,
+    "text": "Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 467,
+    "text": "On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 468,
+    "text": "Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 469,
+    "text": "Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 470,
+    "text": "Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 471,
+    "text": "Respected Sir/Madam, Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 472,
+    "text": "Due to urgent reasons, official visit to state higher education council for syllabus revision meeting. please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 473,
+    "text": "On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 474,
+    "text": "Respected Sir/Madam, Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 475,
+    "text": "Due to urgent reasons, deputed by hod for naac peer team accreditation preparation work at campus b. i will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 476,
+    "text": "Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 477,
+    "text": "Respected Sir/Madam, On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 478,
+    "text": "Due to urgent reasons, official university deputation for conducting external lab examination. i will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 479,
+    "text": "On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 480,
+    "text": "Respected Sir/Madam, Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 481,
+    "text": "Due to urgent reasons, deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 482,
+    "text": "Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 483,
+    "text": "Respected Sir/Madam, On duty for accompanying MCA students on industrial visit to Infosys Mysore. Requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 484,
+    "text": "Due to urgent reasons, official duty for representing institute at university athletic meet coordination. doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 485,
+    "text": "Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 486,
+    "text": "Respected Sir/Madam, Official visit to Regional Science Centre for guiding student project exhibition. Kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 487,
+    "text": "Due to urgent reasons, on duty leave for attending mandatory university academic council meeting. thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 488,
+    "text": "Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 489,
+    "text": "Respected Sir/Madam, On official duty at Higher Education Department for scholarship scheme audit. Necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 490,
+    "text": "Due to urgent reasons, representing college at inter-university robotics competition as faculty mentor. i have informed the hod regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 491,
+    "text": "Deputed on official university duty for inspecting affiliated college laboratories.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 492,
+    "text": "Respected Sir/Madam, Official visit to State Higher Education Council for syllabus revision meeting. Please grant me leave for the same.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 493,
+    "text": "Due to urgent reasons, on duty for accompanying mca students on industrial visit to infosys mysore. requesting you to kindly approve my application.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 494,
+    "text": "Official duty for representing institute at University Athletic Meet coordination. Doctor certificate is attached herewith for your reference.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 495,
+    "text": "Respected Sir/Madam, Deputed by HOD for NAAC peer team accreditation preparation work at campus B. I will ensure my lecture topics are covered by substitute faculty.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 496,
+    "text": "Due to urgent reasons, official visit to regional science centre for guiding student project exhibition. kindly consider my request and grant permission.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 497,
+    "text": "On duty leave for attending mandatory University Academic Council meeting. Thanking you in advance.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 498,
+    "text": "Respected Sir/Madam, Official university deputation for conducting external lab examination. I will resume duties immediately upon return.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 499,
+    "text": "Due to urgent reasons, on official duty at higher education department for scholarship scheme audit. necessary supporting documents have been uploaded.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  },
+  {
+    "id": 500,
+    "text": "Representing college at Inter-University Robotics Competition as faculty mentor. I have informed the HOD regarding lecture adjustments.",
+    "label": "OD",
+    "leave_type_name": "On Duty Leave"
+  }
+]
